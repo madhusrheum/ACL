@@ -29,6 +29,7 @@
 ::rheumy::Rheumatologist
 ::derm::Dermatology
 ::dermt::Dermatologist
+::wsaf::Will start authorization for
 
 ::oarth::Osteoarthritis
 ::parth::Psoriatic Arthritis
@@ -2481,11 +2482,15 @@
 ::asynch::asynchronous
 ::asynct::asynchronicity
 ::asyncy::asynchronously
-::sycc::synchronous circuit
-::syccs::synchronous circuits
-::sscc::synchronous sequential circuit
-::ssccs::synchronous sequential circuits
 ::sinc::synchronic
+::tol::tolerate
+::tols::tolerates
+::toln::tolerant
+::tolc::tolerance
+::tolb::tolerable
+::tolby::tolerability
+::intol::intolerant
+::intolc::intolerance
 ::diac::diachronic
 ::doc::document
 ::docs::documents
@@ -4285,8 +4290,8 @@
 ::ys::yourself
 ::prof::professor
 ::profs::professors
-::pro::professional
-::pros::professionals
+::prol::professional
+::prols::professionals
 ::proy::professionally
 ::prod::professional development
 ::ppath::psychopathology
