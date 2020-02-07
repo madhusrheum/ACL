@@ -2,6 +2,12 @@
 #SingleInstance Force
 SetTitleMatchMode 2
 
+NumLock::SetNumLockState On
++NumLock::SetNumLockState Off
+
+#j::SendInput ^#{Left}
+#l::SendInput ^#{Right}
+
 if (A_ComputerName = "DESKTOP-8319N3N")
 	UserName = samak
 else
@@ -40,3 +46,14 @@ Return
 #c::Run chrome
 #g::Run www.gmail.com,, Maximize
 #d::Run D:\Google Drive
+
+NumpadEnd::Send 1
+NumpadDown::Send 2
+NumpadPgDn::Send 3
+NumpadLeft::Send 4
+NumpadClear::Send 5
+NumpadRight::Send 6
+NumpadHome::Send 7
+NumpadUp::Send 8
+NumpadPgUp::Send 9
+NumpadDel::Send .

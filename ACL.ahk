@@ -423,16 +423,6 @@
 ::dwds::downwards
 ::lwd::leftward
 ::rwd::rightward
-::ussc::upward shift of the supply curve
-::dssc::downward shift of the supply curve
-::lssc::leftward shift of the supply curve
-::rssc::rightward shift of the supply curve
-::aatsc::area above the supply curve
-::usdc::upward shift of the demand curve
-::dsdc::downward shift of the demand curve
-::lsdc::leftward shift of the demand curve
-::rsdc::rightward shift of the demand curve
-::abtdc::area below the demand curve
 ::rvr::reverse
 ::rvrp::reverse psychology
 ::rvrs::reverses
@@ -504,30 +494,15 @@
 ::pren::prenominal
 ::postn::postnominal
 ::pz::palatalization
-::diph::diphthongization
-::monoph::monophthongization
-::pv::pre-verbal
-::whp::wh-phrase
-::whps::whether-phrases
-::whm::wh-movement
-::whq::whether-question
-::whqs::wh-questions
 ::indoe::Indo-European
 ::phon::phonology
 ::phonl::phonological
 ::phonly::phonologically
 ::mv::medieval
-::PIE::Proto-Indo-European 
 ::esp::especially
-::ohg::Old High German
-::mhg::Middle High German
-::nhg::New High German
 ::ling::linguistic
 ::lings::linguistics
 ::lingy::linguistically
-::mling::metalinguistic
-::nling::neurolinguistic
-::pling::psycholinguistic
 ::dev::develop
 ::devs::develops
 ::devd::developed
@@ -553,8 +528,7 @@
 ::toma::tomorrow afternoon
 ::tome::tomorrow evening
 ::tomn::tomorrow night
-::ye::yesterday
-::ce::center-embedded
+::yest::yesterday
 ::pic::picture
 ::pics::pictures
 ::pica::pic
@@ -576,12 +550,6 @@
 ::syx::syntax
 ::syc::syntactic
 ::syy::syntactically
-::syxt::syntax tree
-::syxts::syntax trees
-::tsyx::traditional syntax
-::tsyr::traditionalSyntax
-::msyx::modern syntax
-::msyr::modernSyntax
 ::w::with
 ::wu::WITH
 ::wa::with a
@@ -702,10 +670,6 @@
 ::impc::importance
 ::mriy::more importantly
 ::msiy::most importantly
-::impst::'import' statement
-::impsts::'import' statements
-::impsm::'import' statement
-::impsms::'import' statements
 ::exp::export
 ::exps::exports
 ::expd::exported
@@ -790,12 +754,6 @@
 ::demr::demonstrater
 ::demrs::demonstraters
 ::demv::demonstrative
-::demos::demo's
-::demod::demo'ed
-::demog::demo'ing
-::dgen::'%demonstrations%\general.docx'
-::dacl::'%demonstrations%\ACLs.docx'
-::dahk::'%demonstrations%\AHK.docx'
 ::rcg::recognize
 ::rcgs::recognizes
 ::rcgd::recognized
@@ -849,7 +807,6 @@
 ::contns::continuations
 ::ctskn::continuation section
 ::ctskns::continuation sections
-::ahkcs::'%AHK%\resources\continuation sections.docx'
 ::conty::continually
 ::contu::continuous
 ::contuy::continuously
@@ -902,22 +859,6 @@
 ::ucd::unconditional
 ::ucdt::unconditionality
 ::ucdy::unconditionally
-::bic, bcd::biconditional
-::bics, bcds::biconditionals
-::lpc::loop condition
-::lpcs::loop conditions
-::prcnd::pre-condition
-::prcnds::pre-conditions
-::pocnd::post-condition
-::pocnds::post-conditions
-::prcndt::Pre-Condition
-::prcndst::Pre-Conditions
-::pocndt::Post-Condition
-::pocndst::Post-Conditions
-::tcnd::test condition
-::tcnds::test conditions
-::tc::Test Condition
-::tcs::Test Conditions
 ::iow::in other words
 ::pdm::paradigm
 ::pdms::paradigms
@@ -954,17 +895,6 @@
 ::ojv::objective
 ::ojvs::objectives
 ::ojvy::objectively
-::d.o.::direct object
-::oo::object-oriented
-::oot::Object-Oriented
-::oodv::Object-Oriented Development
-::oodz::Object-Oriented Design
-::ooda::OOD
-::oodt::Object-Oriented Design
-::oop::object-oriented programming
-::oopa::OOP
-::oopt::Object-Oriented Programming
-::oosd::Object-Oriented Software Development
 ::ojf::objectify
 ::ojfs::objectifies
 ::ojfd::objectified
@@ -1342,20 +1272,9 @@
 ::elc::elastic
 ::ielc::inelastic
 ::pfly::perfectly
-::pelc::perfectly elastic
-::pelcs::perfectly elastic supply
-::pelcd::perfectly elastic demand
-::pielc::perfectly inelastic
-::pis::perfectly inelastic supply
-::pid::perfectly inelastic demand
 ::ely::elasticity
 ::elys::elasticities
 ::iely::inelasticity
-::es::elastic supply
-
-::eos::elasticity of supply
-::peod::price elasticity of demand
-::peos::price elasticity of supply
 ::ic::increase
 ::ics::increases
 ::icd::increased
@@ -1634,26 +1553,9 @@
 ::impv::imperative
 ::masc.::masculine
 ::fem.::feminine
-::gx::generalized existential 
-::gxq::generalized existential (intersective) quantifier
-::gxqs::generalized existential (intersective) quantifiers
-::eqnr::existential quantifier
-::eqnrs::existential quantifiers
-::eqnn::existential quantification
-::xqnr::existential quantifier
-::xqnrs::existential quantifiers
-::xqnn::existential quantification
 ::uni::universe
 ::unil::universal
 ::uniy::universally
-::gu::generalized universal 
-::guq::generalized universal (co-intersective) quantifier
-::guqs::generalized universal (co-intersective) quantifiers
-::uqnr::universal quantifier
-::uqnrs::universal quantifiers
-::uqnn::universal quantification
-::pq::proportional quantifier
-::pqs::proportional quantifiers
 ::propn::proportion
 ::propns::proportions
 ::propl::proportional
@@ -1718,9 +1620,6 @@
 ::elzns::equalizations
 ::elzr::equalizer
 ::elzrs::equalizers
-::asme::assignmentEquals
-::ceq::colon-equals
-::asmc::assignmentColonEquals
 ::eq::equate
 ::eqs::equates
 ::eqd::equated
@@ -1750,7 +1649,6 @@
 ::econy::economically
 ::ew::economic welfare
 ::ewb::economic well-being
-::dewb::distribution of economic well-being
 ::miec::microeconomy
 ::miecc::microeconomic
 ::miecs::microeconomics
@@ -1823,11 +1721,6 @@
 ::feag::featuring
 ::pct::percent
 ::pcts::percents
-::pctd::percented
-::pctv::percentedVariable
-::pctvr::percented variable reference
-::pctvrs::percented variable references
-::pcg [%g doesn't frickin' work!]::percentage
 ::icl::include
 ::icls::includes
 ::icld::included
@@ -1839,18 +1732,6 @@
 ::iclly::includably
 ::iclv::inclusive
 ::icly::inclusively
-::picl::{#}include
-::picls::{#}includes
-::picld::{#}included
-::piclg::{#}include-ing
-::piclsu::{#}Includes
-::picldu::{#}Included
-::piclgu::{#}Include-ing
-::pih::{#}Include hierarchy
-::pism::#include statement
-::pisms::#include statements
-::pismu::#Include statement
-::pismsu::#Include statements
 ::xcl::exclude
 ::xcls::excludes
 ::xcld::excluded
@@ -1874,14 +1755,12 @@
 ::pclrs::precluders
 ::corpn::corporation
 ::corpns::corporations
-::inca::inc
 ::inc::incorporate
 ::incs::incorporates
 ::incd::incorporated
 ::incg::incorporating
 ::incn::incorporation
 ::agmt::agreement
-::sva::subject-verb agreement
 ::mnr::minor
 ::mnrt::minority
 ::mjr::major
@@ -1937,12 +1816,6 @@
 ::abo::above
 ::aia::as illustrated above
 ::aib::as illustrated below
-::aida::as illustrated in the diagram above
-::aidb::as illustrated in the diagram below
-::aifa::as illustrated in the figure above
-::aifb::as illustrated in the figure below
-::aiga::as illustrated in the graph above
-::aigb::as illustrated in the graph below
 ::pos::positive
 ::poss::positives
 ::posy::positively
@@ -2019,7 +1892,6 @@
 ::tdb::the difference between
 ::wtdb::what's the difference between
 ::witdb::what is the difference between
-::watdb::what are the differences between
 ::dff::different from
 ::dfrn::differentiate
 ::dfrns::differentiates
@@ -2056,8 +1928,6 @@
 ::ssq::subsequent
 ::ssqy::subsequently
 ::subqy::subsequently
-::lcs::longest common subsequence
-::mcm::matrix-chain multiplication
 ::smn::summation
 ::smns::summations
 ::cqc::consequence
@@ -2108,8 +1978,6 @@
 ::rpby::responsibly
 ::rpbt::responsibility
 ::rpbts::responsibilities
-::rftft::responsibility for the fact that
-::anr::accountability and responsibility
 ::irpb::irresponsible
 ::irpby::irresponsibly
 ::irpbt::irresponsibility
@@ -2137,17 +2005,10 @@
 ::kbs::keyboards
 ::kbd::key binding
 ::kbds::key bindings
-::kc::keyboard customization
-::kcs::keyboard customizations
-::lkcu::Lenovo Keyboard Customizer Utility
 ::shc::shortcut
 ::shcs::shortcuts
 ::kbx::keyboard shortcut
 ::kbxs::keyboard shortcuts
-::kbxst::Keyboard Shortcuts
-::ksd::'keyboard shortcuts.docx'
-::kxs::keyboard shortcut scheme
-::kxss::keyboard shortcut schemes
 ::rdu::reduce
 ::rdus::reduces
 ::rdud::reduced
@@ -2804,7 +2665,7 @@
 ::urp::user's perspective
 ::devrp::developer's perspective
 ::aot::as opposed to
-::cmp::compare
+::cmpr::compare
 ::cmps::compares
 ::cmpd::compared
 ::cmpg::comparing
@@ -2815,8 +2676,6 @@
 ::ict::in comparison to
 ::cmpl::comparable
 ::cmpy::comparably
-::cmpr::comparator
-::cmprs::comparators
 ::cmpv::comparative
 ::cmpvy::comparatively
 ::cmpt::compared to
@@ -5038,7 +4897,7 @@
 ::ewh::everywhere
 ::ewhe::everywhere else
 ::lwh::elsewhere
-::sone::someone
+::smo::someone
 ::soe::someone else
 ::swa::somewhat
 ::sth::something
@@ -15580,8 +15439,6 @@ Return
 ::pnuns::pronunciations
 ::pnor::pronouncer
 ::pnors::pronouncers
-::ehm::eHarmony
-::mdc::match.com
 ::slm::soulmate
 ::slms::soulmates
 ::par::parent
@@ -15621,11 +15478,7 @@ Return
 ::pfig::profiling
 ::pfir::profiler
 ::pfirs::profilers
-::ypa::Hey there, your profile's awesome!
-::ypsa::Hey there, your profile and sense of humor are awesome!
 ::gh::GitHub
-::ghu::https://github.com/rponamgi/AHK-IES
-::liu::https://www.linkedin.com/pub/ravi-ponamgi/57/542/471?domainCountryName=&csrfToken=ajax%3A6208784974603197398
 ::cpen::compensate
 ::cpens::compensates
 ::cpend::compensated
@@ -15638,15 +15491,12 @@ Return
 ::boae::Bank of America
 ::gnu::genuine
 ::gnuy::genuinely
-::rht::Robert Half Technology
 ::tyo::Toyota
 ::tfs::Toyota Financial Services
 ::wor::world
 ::wors::worlds
 ::crr::career
 ::crrs::careers
-::sttm::Saint Thomas More School
-::wsfg::Westridge School for Girls
 ::pasa::Pasadena
 ::ndor::endorse
 ::ndors::endorses
@@ -15656,10 +15506,7 @@ Return
 ::ndorms::endorsements
 ::ndorr::endorser
 ::ndorrs::endorsers
-::acn::Accenture
 ::acc::accident
-::acna::ACN
-::pcoi::PCO Innovation
 ::lry::laundry
 ::lmat::laundromat
 ::eac::East coast
@@ -15703,18 +15550,9 @@ Return
 ::igues::intrigues
 ::igued::intrigued
 ::igueg::intriguing
-::csfv::CHASE Sapphire Visa
-::csfve::CHASE Sapphire Visa ending in *5314
-::ilfo::Il Fornaio
 ::mol::meaning of life
 ::tmol::the meaning of life
-::tumol::the UNIVERSAL meaning of life
-::ptc::PTC
 ::wich::Windchill
-::pdml::PDMLink
-::fplm::FlexPLM
-:*:s1f::Logged into FlexPLM as ravi.ponamgi.  FlexPLM home page was displayed.
-:*:s1p::Logged into PDMLink as ravi.ponamgi.  PDMLink home page was displayed.
 ::tbsh::troubleshoot
 ::tbshs::troubleshoots
 ::tbshd::troubleshooted
@@ -15728,16 +15566,13 @@ Return
 ::asorg::assorting
 ::asorm::assortment
 ::asorms::assortments
-::ootb::OOTB
 ::ootbe::out-of-the-box
 ::tbl::table
 ::tbls::tables
 ::tbld::tabled
 ::tblg::tabling
 ::dile::dilemma
-::hpa::HP ALM
 ::blu::Blu-ray
-::epln::Eblouié Par La Nuit
 ::fasc::fascinate
 ::fascs::fascinates
 ::fascd::fascinated
@@ -15748,7 +15583,6 @@ Return
 ::prif::periphery
 ::prifl::peripheral
 ::prify::peripherally
-::ncpas::n'est-ce pas
 ::mitu::M.I.T.
 ::cad::CAD
 ::urj::urgent
@@ -15758,12 +15592,10 @@ Return
 ::hsea::holiday season
 ::sin::sincere
 ::siny::sincerely
-::ouv::open
-::ouvs::opens
-::ouvd::opened
-::ouvg::opening
-::ouvr::opener
-::ouvrs::openers
 ::sirl::"Submit Initial Release"
 ::gihu::GitHub
 ::srct::SourceTree
+::ebat::embattle
+::ebats::embattles
+::ebatd::embattled
+::ebatb::embattling
