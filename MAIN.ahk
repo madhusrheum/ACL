@@ -47,6 +47,7 @@ Return
 #g::Run www.gmail.com,, Maximize
 #d::Run D:\Google Drive
 
+NumpadIns::Send 0
 NumpadEnd::Send 1
 NumpadDown::Send 2
 NumpadPgDn::Send 3
