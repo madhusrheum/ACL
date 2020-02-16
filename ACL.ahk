@@ -10,7 +10,6 @@
 
 ::fn::9548150119
 ::msad::1603 Trailview Way NE
-::ccno::4147098131973851
 #Hotstring *0
 
 :C:TeCa::Testing CASE-SensitiVity
