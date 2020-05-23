@@ -13,12 +13,12 @@ ACL_Path := A_ScriptDir "\" ACL_Filename
 
 SciTE4AHK_exe := "C:\Program Files\AutoHotkey\SciTE\SciTE.exe"
 
-;Hotkeys
-#j::SendInput ^#{Left}
-#l::SendInput ^#{Right}
-
 ;open the ACL (for the purpose of viewing or editing it)
-#o::Run %SciTE4AHK_exe% %ACL_Path%
+#o::Run C:\Program Files\AutoHotkey\SciTE\SciTE.exe %A_ScriptDir%\ACL\English.ahk,, Maximize
+
+;Hotkeys
+^#LButton::SendInput ^#{Left}
+^#RButton::SendInput ^#{Right}
 
 ;update the ACL with the latest entries
 <#r::
@@ -55,3 +55,7 @@ NumpadHome::Send 7
 NumpadUp::Send 8
 NumpadPgUp::Send 9
 NumpadDel::Send .
+
+^RButton::AltTabAndMenu
+WheelDown::AltTab
+WheelUp::ShiftAltTab
