@@ -41,6 +41,7 @@ Return
 #g::Run www.gmail.com,, Maximize
 #d::Run D:\Google Drive
 
+F1::Send {Enter}
 NumLock::SetNumLockState On
 +NumLock::SetNumLockState Off
 

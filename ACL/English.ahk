@@ -174,7 +174,7 @@
 ::hl::Hyperlipidemia
 ::hypt::Hypothyroidism
 ::toxy::toxicity
-::bprx::blood pressure
+::bp::blood pressure
 
 
 
@@ -184,20 +184,6 @@
 ::lxg::lexing
 ::lxr::lexer
 ::lxrs::lexers
-::olx::out-lex
-::olxs::out-lexes
-::olxd::out-lexed
-::olxg::out-lexing
-::lxrr::lexer rule
-::lxrrs::lexer rules
-::lxl::lexical
-::lxly::lexically
-::lxla::lexical analysis
-::lxlas::lexical analyses
-::lxld::lexical decision
-::lxlds::lexical decisions
-::lxlr::lexical rule
-::lxlrs::lexical rules
 ::lex::lexicon
 ::lxc::lexicon
 ::lxg::lexicographic
@@ -248,17 +234,6 @@
 ::btwa::btw
 ::btw::by the way
 ::nbtw::and by the way
-::rc::relative clause
-::rcs::relative clauses
-::rtvz::relativize
-::rtvzs::relativizes
-::rtvzd::relativized
-::rtvzg::relativizing
-::rtvzn::relativization
-::rtvzns::relativizations
-::rtvzr::relativizer
-::rtvzrs::relativizers
-::rtvzt::relativizability
 ::rltv::relative
 ::rlty::relatively
 ::rlva::relevant
@@ -275,8 +250,6 @@
 ::rln::relation
 ::rlns::relations
 ::rll::relational
-::rlo::relational operator
-::rlos::relational operators
 ::rlp::relationship
 ::rlps::relationships
 ::itrl::inter-relate
@@ -301,11 +274,6 @@
 ::irlnt::in relation to
 ::daba::database
 ::dabas::databases
-::rddz::relational database design
-::dbms::database management system
-::dbmss::database management systems
-::dbmsa::DBMS
-::dbmssa::DBMSs
 ::skel::skeleton
 ::skels::skeletons
 ::ske::sketch
@@ -348,8 +316,6 @@
 ::ro::regardless of
 ::eql::equilibrium
 ::eqa::equilibria
-::eqp::equilibrium price
-::eqq::equilibrium quantity
 ::gov::govern
 ::govs::governs
 ::govd::governed
@@ -372,14 +338,6 @@
 ::spprs::suppliers
 ::lspp::law of supply
 ::spnd::supply and demand
-::sdd::supply-and-demand diagram
-::sppc::supply curve
-::sppcs::supply curves
-::isc::industry supply curve
-::msc::market supply curve
-::dmac::demand curve
-::dmacs::demand curves
-::dsdc::downward-sloping demand curve
 ::fwd::forward
 ::fwds::forwards
 ::fwdd::forwarded
@@ -540,7 +498,6 @@
 ::syc::syntactic
 ::syy::syntactically
 ::w::with
-::wu::WITH
 ::wa::with a
 ::wan::with an
 ::wi::within
@@ -569,9 +526,6 @@
 ::dfd::defaulted
 ::dfg::defaulting
 ::bdf::by default
-::dcr::default constructor
-::dfv::default value
-::dfvs::default values
 ::distr::distribute
 ::distrs::distributes
 ::distrd::distributed
@@ -632,24 +586,13 @@
 ::fd::functioned
 ::fg::functioning
 ::fl::functional
-::fpg::functional programming
 ::fy::functionally
 ::flt::functionality
-::frqm::functional requirement
-::frqms::functional requirements
-::frqmt::Functional Requirement
-::frqmts::Functional Requirements
-::foj::function object
-::fojs::function objects
-::ftor::functor
-::ftors::functors
 ::afo::a function of
 ::mafo::more a function of
 ::iafo::is a function of
 ::imafo::is more a function of
 ::aafo::as a function of
-::hof::higher-order function
-::hofs::higher-order functions
 ::imp::import
 ::imps::imports
 ::impd::imported
@@ -725,8 +668,6 @@
 ::itgr::integrator
 ::itgrs::integrators
 ::itgt::integrity
-::icc::integrated circuit
-::iccs::integrated circuits
 ::fac::facilitate
 ::facs::facilitates
 ::facd::facilitated
@@ -820,9 +761,6 @@
 ::stimn::stimulation
 ::stimns::stimulations
 ::bc::because
-::cuze::because
-::cuzo::because of
-::cuzoe::because of the
 ::bco::because of
 ::bcoe::because of the
 ::sce::since the
@@ -943,8 +881,6 @@
 ::dpdcys::dependencies
 ::codt::co-dependent
 ::codc::co-dependency
-::ccd::circular dependency
-::ccds::circular dependencies
 ::idpdc::independence
 ::idpdt::independent
 ::idpdy::independently
@@ -995,13 +931,10 @@
 ::sigr::signifier
 ::sigrs::signifiers
 ::sigt::significant
-::sigf::significant figure
-::sigfs::significant figures
 ::sigy::significantly
 ::sigc::significance
 ::isigt::insignificant
 ::isigc::insignificance
-::pnt::prime and target
 ::prop::property
 ::props::properties
 ::nct::necessitate
@@ -1020,8 +953,6 @@
 ::ql::qualify
 ::qls::qualifies
 ::qld::qualified
-::fqcn::fully qualified class name
-::fqcns::fully qualified class names
 ::qlg::qualifying
 ::qln::qualification
 ::qlr::qualifier
@@ -1040,19 +971,10 @@
 ::qnrs::quantifiers
 ::qnt::quantity
 ::qnts::quantities
-::nq::nested quantifier
-::nqt::Nested Quantifier
-::nqs::nested quantifiers
-::nqst::Nested Quantifiers
-::qeq::Qeq
 ::qnv::quantitative
 ::qnvy::quantitatively
 ::pnq::price and quantity
 ::preds::predicates
-::2vq::two-variable quantifier
-::2vqs::two-variable quantifiers
-::2pp::two-place predicate
-::2pps::two-place predicates
 ::qu::question
 ::qus::questions
 ::qud::questioned
@@ -1162,7 +1084,6 @@
 ::admrs::administrators
 ::admv::administrative
 ::p::pain
-::peq::Peq
 ::dop::domestic price
 ::wop::world price
 ::pd::price discrimination
@@ -1179,12 +1100,6 @@
 ::char::character
 ::chars::characters
 ::chara::char
-::endc::ending character
-::endcs::ending characters
-::escc::escape character
-::esccs::escape characters
-::esq::escape sequence
-::esqs::escape sequences
 ::eln::endline
 ::nln::newline
 ::nlns::newlines
@@ -1315,10 +1230,6 @@
 ::tn::telephone number
 ::tns::telephone numbers
 ::tnt::Telephone Number
-::lnum::line number
-::lnums::line numbers
-::lnumt::Line Number
-::lnumst::Line Numbers
 ::snum::serial number
 ::snums::serial numbers
 ::onum::outnumber
@@ -1407,69 +1318,14 @@
 ::wfs::well-formed sentence
 ::ii::index
 ::iis::indices
-::vara::var
 ::var::variable
 ::vars::variables
 ::vart::variability
 ::vly::variably
 ::ivly::invariably
 ::ivary::invariably
-::vdk::variable declaration
-::vdks::variable declarations
-::vari::variable initialization
-::varis::variable initializations
-::vasm::variable assignment
-::vasms::variable assignments
-::vasr::variableAssignment
-::dynv::dynamic variable
-::dynvs::dynamic variables
-::iiv::index variable
-::iivs::index variables
-::itiv::increment the index variable
-::tvar::type variable
-::tvars::type variables
 ::ince::instance
 ::inces::instances
-::avar::automatic variable
-::avars::automatic variables
-::evar::environment variable
-::evars::environment variables
-::gv::global variable
-::gvs::global variables
-::gbf::global function
-::gbfs::global functions
-::klv::class variable
-::klvs::class variables
-::incem::instance method
-::incems::instance methods
-::imed::instance method
-::imeds::instance methods
-::ivar::instance variable
-::ivars::instance variables
-::lv::local variable
-::lvs::local variables
-::prmv::parameter variable
-::prmvs::parameter variables
-::pvar::parameter variable
-::pvars::parameter variables
-::rfty::reference type
-::rftys::reference types
-::vty::value type
-::vtys::value types
-::rvar::reference variable
-::rvars::reference variables
-::hvar::shared variable
-::hvars::shared variables
-::svar::static variable
-::svars::static variables
-::stav::static variable
-::stavs::static variables
-::staf::static function
-::stafs::static functions
-::stam::static method
-::stams::static methods
-::smed::static method
-::smeds::static methods
 ::fi::for instance
 ::inst::instantiate
 ::insts::instantiates
@@ -1486,7 +1342,6 @@
 ::defd::defined
 ::idb::is defined by
 ::di::defined in
-::ddi::duplicately defined in
 ::idi::is defined in
 ::adi::already defined in
 ::iadi::is already defined in
@@ -1567,8 +1422,6 @@
 ::csurs::consumers
 ::csun::consumption
 ::csuns::consumptions
-::ric::rival in consumption
-::nric::nonrival in consumption
 ::tsurp::total surplus
 ::bgs::budget surplus
 ::bgd::budget deficit
@@ -1636,8 +1489,6 @@
 ::econs::economics
 ::econl::economical
 ::econy::economically
-::ew::economic welfare
-::ewb::economic well-being
 ::miec::microeconomy
 ::miecc::microeconomic
 ::miecs::microeconomics
@@ -1646,8 +1497,6 @@
 ::maecs::macroeconomics
 ::irg::interrogative
 ::irgs::interrogatives
-::irgp::interrogative phrase
-::irgps::interrogative phrases
 ::gen::general
 ::genc::generic
 ::gnrc::generic
@@ -1986,10 +1835,6 @@
 ::ftln::free translation
 ::ks::keystroke
 ::kss::keystrokes
-::ubk::unbound keystroke
-::ubks::unbound keystrokes
-::ksq::key sequence
-::ksqs::key sequences
 ::kb::keyboard
 ::kbs::keyboards
 ::kbd::key binding
@@ -2071,10 +1916,6 @@
 ::divrs::dividers
 ::dvz::divisor
 ::dvzs::divisors
-::gcd::greatest common divisor
-::gcds::greatest common divisors
-::gcda::GCD
-::gcdsa::GCDs
 ::sdiv::subdivide
 ::sdivs::subdivides
 ::sdivd::subdivided
@@ -2097,17 +1938,6 @@
 ::abgy::ambiguously
 ::uabg::unambiguous
 ::uabgy::unambiguously
-::labg::lexically ambiguous
-::labgt::lexical ambiguity
-::labgts::lexical ambiguities
-::sabg::syntactically ambiguous
-::sabgt::syntactic ambiguity
-::sabgts::syntactic ambiguities
-::skab::scope ambiguous
-::skat::scope ambiguity
-::skats::scope ambiguities
-::abgoj::ambiguous outer join
-::abgojs::ambiguous outer joins
 ::damb::disambiguate
 ::dambs::disambiguates
 ::dambd::disambiguated
@@ -2144,8 +1974,6 @@
 ::pkrn::procrastination
 ::pkrr::procrastinater
 ::pkrrs::procrastinaters
-::cumx::cumulative exponence
-::cumxd::cumulatively exponenced
 ::psb::possible
 ::ifp::if possible
 ::psbt::possibility
@@ -2190,7 +2018,6 @@
 ::lic::license
 ::lics::licenses
 ::licg::licensing
-::npi.::negative polarity item
 ;::ra::rather
 ::rth::rather than
 ::br::but rather
@@ -2276,7 +2103,6 @@
 ::ifmrs::informers
 ::infov::informative
 ::infoy::informatively
-::ih::information hiding
 ::itk::Information Technology
 ::fyi::FYI
 ::fyie::for your information
@@ -2288,8 +2114,6 @@
 ::appg::applying
 ::appn::application
 ::appns::applications
-::appc::application code
-::appnl::Application-Launching
 ::appr::applier
 ::apprs::appliers
 ::appng::application group
@@ -2309,15 +2133,10 @@
 ::xprns::expressions
 ::mxp::mixed expression
 ::mxps::mixed expressions
-::pme::potentially mixed expression
-::pmes::potentially mixed expressions
 ::xprm::expressionism
 ::xprt::expressionist
 ::xprv::expressive
 ::xpry::expressively
-::regex::regular expression
-::regexs::regular expressions
-::rxp::regular expression pattern
 ::simul::simultaneous
 ::simuly::simultaneously
 ::sync::synchronize
@@ -2374,15 +2193,6 @@
 ::ptg::pointing
 ::ptr::pointer
 ::ptrs::pointers
-::fp::function pointer
-::fps::function pointers
-::frf::function reference
-::frfs::function references
-::nullu::'NULL'
-::nptr::null pointer
-::nptrs::null pointers
-::bnn::blank/nothing/null
-::bnnv::blank/nothing/null value
 ::ptit::point in time
 ::ptsit::points in time
 ::pov::point of view
@@ -2469,17 +2279,6 @@
 ::archtg::architecting
 ::archl::architectural
 ::archy::architecturally
-::achart::Architectural Chart
-::atdz::Architectural Design
-::amdl::architectural model
-::amdls::architectural models
-::asyl::architectural style
-::asyls::architectural styles
-::gch::Gantt chart
-::gchs::Gantt charts
-::pnw::PERT Network
-::pnws::PERT Networks
-::ldv::Leonardo Da Vinci
 ::fl::Florence
 ::ital::install
 ::itals::installs
@@ -2534,8 +2333,6 @@
 ::ptypel::prototypical
 ::ptyper::prototyper
 ::ptypers::prototypers
-::fpr::function prototype
-::fprs::function prototypes
 ::csd::consider
 ::csds::considers
 ::csdd::considered
@@ -2605,20 +2402,10 @@
 ::imbi::in my best interest
 ::iimbi::it's in my best interest
 ::iiimbi::it is in my best interest
-::inta::int
 ::pbl::probable
 ::pby::probably
 ::pbt::probability
 ::pbts::probabilities
-::pbc::probabilistic
-::pbcy::probabilistically
-::pbtd::probability distribution
-::pbtds::probability distributions
-::pdfe::probability density function
-::pdfes::probability density functions
-::cpb::conditional probability
-::cpbs::conditional probabilities
-::tpb::total probability
 ::pns::Probability and Statistics
 ::slfe::self-esteem
 ::slfi::self-image
@@ -2626,19 +2413,12 @@
 ::slfv::self-value
 ::slfvn::self-valuation
 ::sid::Self-Image diagram
-::stdar::{self-image}-thoughts-decisions-actions-results
-::tdar::thoughts-decisions-actions-results
-::tdaa::thoughts, decisions, and actions
-::tdna::thoughts, decisions, and actions
-::tdarc::Thoughts-Decisions-Actions-Results chain
 ::swo::self-worth
 ::sinsw::self-image and self-worth
 ::sosw::sense of self-worth
 ::wl::worthless
 ::wln::worthlessness
 ::hln::hopelessness
-::wah::worthlessness and hopelessness
-::wnh::worthlessness and hopelessness
 ::exac::exacerbate
 ::sitn::situation
 ::sitns::situations
@@ -2651,16 +2431,12 @@
 ::persps::perspectives
 ::puip::put in perspective
 ::piip::put it in perspective
-::urp::user's perspective
-::devrp::developer's perspective
 ::aot::as opposed to
 ::cmpr::compare
 ::cmps::compares
 ::cmpd::compared
 ::cmpg::comparing
 ::cmpn::comparison
-::cmpo::comparison operator
-::cmpos::comparison operators
 ::cmpns::comparisons
 ::ict::in comparison to
 ::cmpl::comparable
@@ -2744,21 +2520,13 @@
 ::ul::upper limit
 ::llm::lower limit
 ::ub::upper bound
-::lub::least upper bound
-::lb::lower bound
-::glb::greatest lower bound
 ::ulg::underlying
 ::fw::footwork
 ::itfp::in the first place
 ::asa::as soon as
 ::asap::ASAP
 ::asape::as soon as possible
-::iin::inclusive inequality
-::xin::exclusive inequality
-::sts::stereo systems
 ::sev::several
-::poi::price of an input
-::pois::price of inputs
 ::lta::leads to a
 ::cru::crucial
 ::cruy::crucially
@@ -2769,8 +2537,6 @@
 ::nslk::natural selection
 ::ntv::native
 ::ntvy::natively
-::nwc::native Word command
-::nwcs::native Word commands
 ::cng::change
 ::cngs::changes
 ::cngd::changed
@@ -2783,8 +2549,6 @@
 ::ucngd::unchanged
 ::ucngg::unchanging
 ::sjtc::subject to change
-::cpkg::change package
-::cpkgs::change packages
 ::icng::interchange
 ::icngs::interchanges
 ::icngd::interchanged
@@ -2858,8 +2622,6 @@
 ::ifq::infrequent
 ::ifqc::infrequency
 ::ifqy::infrequently
-::pcb::procedural block
-::pcbs::procedural blocks
 ::asg::assign
 ::asgs::assigns
 ::asgd::assigned
@@ -2868,10 +2630,6 @@
 ::asgms::assignments
 ::asmt::assignment
 ::asmts::assignments
-::casmt::continuous assignment
-::casmts::continuous assignments
-::bao::blocking assignment operator
-::nbao::non-blocking assignment operator
 ::rasg::reassign
 ::rasgs::reassigns
 ::rasgd::reassigned
@@ -2881,8 +2639,6 @@
 ::uasg::unassign
 ::uasgs::unassigns
 ::uasgd::unassigned
-::uad::[unassigned]
-::uab::[unassignable!]
 ::uasgg::unassigning
 ::uasgb::unassignable
 ::flw::follow
@@ -2908,7 +2664,6 @@
 ::reft::referent
 ::refts::referents
 ::reftl::referential
-::rint::referential integrity
 ::rto::refer to the
 ::rsto::refers to the 
 ::rdto::referred to the
@@ -2921,14 +2676,6 @@
 ::rfcrs::referencers
 ::irft::in reference to
 ::wrft::with reference to
-::rfu::reference unit
-::rfus::reference units
-::drfc::dereference
-::drfcs::dereferences
-::drfcd::dereferenced
-::drfcg::dereferencing
-::drfcr::dereferencer
-::drfcrs::dereferencers
 ::prf::prefer
 ::prfs::prefers
 ::prfd::preferred
@@ -2963,8 +2710,6 @@
 ::akrs::AutoCorrects
 ::akrd::AutoCorrected
 ::akrg::AutoCorrecting
-::akree::AutoCorrectee
-::akrees::AutoCorrectees
 ::akrn::AutoCorrection
 ::akrns::AutoCorrections
 ::akrle::AutoCorrect List
@@ -3000,13 +2745,10 @@
 ::dss::data structures
 ::tds::tree data structure
 ::tdss::tree data structures
-::suk::struct
-::suks::structs
 ::qxl::quintessential
 ::qxy::quintessentially
 ::quint::quintessential
 ::quinty::quintessentially
-::roc::Rococo
 ::evo::evolve
 ::evos::evolves
 ::evod::evolved
@@ -3046,18 +2788,9 @@
 ::amer::America
 ::amern::American
 ::amai::American Airlines
-::aad::AAdvantage
 ::bins::binoculars
 ::ns::number system
 ::nss::number systems
-::1y::unary
-::2y::binary
-::2yn::binary number
-::2yns::binary numbers
-::uy::unary
-::bin::binary
-::bnum::binary number
-::bnums::binary numbers
 ::1ry::unary
 ::uy::unary
 ::2ry::binary
@@ -3067,13 +2800,6 @@
 ::bnum::binary number
 ::bnums::binary numbers
 ::2ns::binary number system
-::2nss::binary number systems ;[e.g. 0,1 & 1,2]
-::bst::binary search tree
-::bsts::binary search trees
-::8l::octal
-::8ln::octal number
-::8lns::octal numbers
-::8ns::octal number system
 ::dcm::decimal
 ::dcms::decimals
 ::dnum::decimal number
@@ -3081,15 +2807,6 @@
 ::dns::decimal number system
 ::dcmp::decimal point
 ::dcmps::decimal points
-::16l::hexadecimal
-::hexl::hexadecimal
-::hexa::hexadecimal
-::hdm::hexadecimal
-::16ln::hexadecimal number
-::16lns::hexadecimal numbers
-::hnum::hexadecimal number
-::hnums::hexadecimal numbers
-::16ns::hexadecimal number system
 ::ma::Modern Art
 ::lec::lecture
 ::lecs::lectures
@@ -3097,43 +2814,8 @@
 ::srcs::sources
 ::srcd::sourced
 ::srcg::sourcing
-::srcc::Sourcing Configuration
-::scfig::Sourcing Configuration
-::srco::source code
-::scf::source-code file
-::scfs::source-code files
-::srf::source file
-::srfs::source files
-::srft::Source File
-::srfst::Source Files
-::srcc::source control
-::sfh::sourceFileHeading
-::sfk::sourceFileClosing
 ::osrc::open-source
-::hcd::hardcode
-::hcds::hardcodes
-::hcdd::hardcoded
-::hcdg::hardcoding
-::hcvs::hardcoded values
-::hdc::hardcode
-::hdcs::hardcodes
-::hdcd::hardcoded
-::hdcg::hardcoding
-::scd::softcode
-::scds::softcodes
-::scdd::softcoded
-::scdg::softcoding
-::sfc::softcode
-::sfcs::softcodes
-::sfcd::softcoded
-::sfcg::softcoding
-::fkey::foreign key
-::fkeys::foreign keys
 ::lu::lookup
-::luf::lookup field
-::lufs::lookup fields
-::lfie::lookup field
-::lfies::lookup fields
 ::pto::pertain to
 ::psto::pertains to
 ::pgto::pertaining to
@@ -3172,7 +2854,6 @@
 ::phily::philosophically
 ::philr::philosopher
 ::philrs::philosophers
-::dpp::The Dining Philosophers Problem
 ::mgz::magazine
 ::mgzs::magazines
 ::mng::manage
@@ -3185,17 +2866,8 @@
 ::mngrs::managers
 ::mgmt::management
 ::mgmts::managements
-::mmng::MAIN Man(ager)
-::mmnga::'MAIN Man(ager).ahk'
-::mahk::'MAIN... .ahk'
-::mm0::'MAIN - Mode 0'
-::m0a::'MAIN - Mode 0.ahk'
-::mm1::'MAIN - Mode 1'
-::m1a::'MAIN - Mode 1.ahk'
 ::tkm::Task Manager
 ::tmc::TaskManager				;Camel Case
-::tiltm::tilt management
-::timem::time management
 ::moneym::money management
 ::sxn::session
 ::sxns::sessions
@@ -3203,7 +2875,6 @@
 ::hm::hunger management
 ::slm::sleep management
 ::lm::lead management
-::lpp::lead-protection pressure
 ::dots::duration of the session
 ::tts::terminate the session
 ::fcm::forthcoming
@@ -3213,15 +2884,12 @@
 ::fum::furthermore
 ::mov::moreover
 ::afme::aforementioned
-::afmx::aforementioned
 ::itu::intuit
 ::itus::intuits
 ::itud::intuited
 ::itug::intuiting
 ::itun::intuition
 ::ituns::intuitions
-::itur::intuitor
-::iturs::intuitors
 ::ituv::intuitive
 ::ituy::intuitively
 ::cituv::counterintuitive
@@ -3251,7 +2919,6 @@
 ::modg::modifying
 ::modn::modification
 ::modns::modifications
-::mkc::modifier key combination
 ::umodd::unmodified
 ::mdf::modify
 ::mdfs::modifies
@@ -3270,11 +2937,8 @@
 ::xpcs::experiences
 ::xpcd::experienced
 ::xpcg::experiencing
-::xpx::experiential
-::xpxy::experientially
 ::ixpc::inexperience
 ::ixpcd::inexperienced
-::gk::Gustav Klimt
 ::arith::arithmetic
 ::ariths::arithmetics
 ::maths::mathematics
@@ -3331,7 +2995,6 @@
 ::muxv::mutually exclusive
 ::muxy::mutually exclusively
 ::mutyi::mutually independent
-::dme::distributed mutual exclusion
 ::ftu::fortune
 ::ftus::fortunes
 ::ftun::fortunate
@@ -3349,9 +3012,6 @@
 ::fdm::fundamental
 ::fdms::fundamentals
 ::fdmy::fundamentally
-::fdmt::fundamental-type
-::ftdm::fundamental-type data member
-::ftdms::fundamental-type data members
 ::amos::atmosphere
 ::rec::recent
 ::recy::recently
@@ -3362,11 +3022,9 @@
 ::rcmn::recommendation
 ::rcmns::recommendations
 ::dic::dictionary
-::dict::dictionary
 ::bwo::by way of
 ::bmo::by means of
 ::ttuo::through the use of
-::ecm::exceptional case marking
 ::clm::complement
 ::clms::complements
 ::clmd::complemented
@@ -3374,9 +3032,6 @@
 ::clmn::complementation
 ::clmns::complementations
 ::clmy::complementary
-::cd::complementary distribution
-::aicd::are in complementary distribution
-::2sc::2's complement
 ::supm::supplement
 ::supms::supplements
 ::supmd::supplemented
@@ -3391,20 +3046,14 @@
 ::tvft::the very fact that
 ::ftft::from the fact that
 ::rtft::reflects the fact that
-::3smf::3SG.MASC.FAM
-::3ph::3PL.HUM
-::pln::PL.NOM
 ::dkl::declare
 ::dkls::declares
 ::dkld::declared
 ::dklg::declaring
 ::dkln::declaration
 ::dklns::declarations
-::vdkln::variable declaration
-::vdklns::variable declarations
 ::dklv::declarative
 ::dkly::declaratively
-::dklvp::declarative programming
 ::fdkl::forward declare
 ::fdkls::forward declares
 ::fdkld::forward declared
@@ -3413,8 +3062,6 @@
 ::fdklns::forward declarations
 ::fdklr::forward declarer
 ::fdklrs::forward declarers
-::impvp::imperative programming
-::iptvp::imperative programming
 ::ini::initial
 ::inis::initials
 ::inid::initialed
@@ -3428,7 +3075,6 @@
 ::izns::initializations
 ::izr::initializer
 ::izrs::initializers
-::inir::Initial Release
 ::riz::reinitialize
 ::rizs::reinitializes
 ::rizd::reinitialized
@@ -3437,22 +3083,15 @@
 ::rizns::reinitializations
 ::rizr::reinitializer
 ::rizrs::reinitializers
-::dni::declare and initialize
 ::thor::thorough
 ::thory::thoroughly
 ::inr::in retrospect
 ::irx::in retrospect
 ::retro::retrospectively
-::anl::anatomical left
-::anr::anatomical right
 ::ko::constant
 ::kos::constants
 ::koy::constantly
-::kop::constant pointer
-::kops::constant pointers
 ::nko::nonconstant
-::nkp::nonconstant pointer
-::nkps::nonconstant pointers
 ::wse::whatsoever
 ::acu::accurate
 ::acuy::accurately
@@ -3526,12 +3165,8 @@
 ::intl::international
 ::intlt::international trade
 ::frtr::free trade
-::trrn::trade restriction
-::trrns::trade restrictions
 ::ocost::opportunity cost
 ::ocosts::opportunity costs
-::pfo::profit opportunity
-::pfos::profit opportunities
 ::oppy::opportunity
 ::oppys::opportunities
 ::oppm::opportunism
@@ -3580,9 +3215,6 @@
 ::pbs::problems
 ::pbm::problematic
 ::pbmy::problematically
-::frp::free-rider problem
-::repa::representational art
-::Kan::Kandinsky
 ::bball::basketball
 ::hist::history
 ::histl::historical
@@ -3600,10 +3232,6 @@
 ::idy::identically
 ::idkt::identicality
 ::iit::is identical to
-::dnp::decreasing NP
-::dnps::decreasing NPs
-::inp::increasing NP
-::inps::increasing NPs
 ::sci::science
 ::scis::sciences
 ::scic::scientific
@@ -3612,45 +3240,13 @@
 ::scits::scientists
 ::sr::scientific research
 ::bsr::basic scientific research
-::bmse::Basic Medical Sciences
-::bsci::Boston Scientific
 ::minn::Minneapolis
-::mfk::modifier key
-::mfks::modifier keys
 ::efx::prefix
 ::efxs::prefixes
-::efxd::prefixed
-::efxg::prefixing
-::efxn::prefixation
-::efxns::prefixations
-::efxr::prefixer
-::efxrs::prefixers
-::pfxk::prefix key
-::pfxks::prefix keys
-::pkb::prefix key binding
-::pkbs::prefix key bindings
-::pfh::prefix Hotkey
-::pfhs::prefix Hotkeys
 ::tgk::target key
 ::tgks::target keys
-::pofx::postfix
-::pofxs::postfixes
-::pofxd::postfixed
-::pofxg::postfixing
-::pofxn::postfixation
-::pofxns::postfixations
-::pofxr::postfixer
-::pofxrs::postfixers
 ::sux::suffix
 ::suxs::suffixes
-::suxd::suffixed
-::suxg::suffixing
-::suxn::suffixation
-::suxs::suffixations
-::suxr::suffixer
-::suxrs::suffixers
-::suxk::suffix key
-::suxks::suffix keys
 ::zo::though
 ::azo::although
 ::ezo::even though
@@ -3681,7 +3277,6 @@
 ::techadv::technological 
 ::innn::innovation
 ::techinn::technological innovation
-::techsp::technological spillover
 ::itao::in the amount of
 ::coun::country
 ::couns::countries
@@ -3693,24 +3288,10 @@
 ::naivete::naïveté
 ::convo::conversation
 ::convos::conversations
-::lpk::loop kill
-::lpks::loop kills
-::sl::slow loop
-::sls::slow loops
 ::foh::forehand
 ::fohs::forehands
-::fhc::forehand chop
-::fhcs::forehand chops
-::fhl::forehand loop
-::fhls::forehand loops
-::ctlp::counterloop
-::ctlps::counterloops
 ::bah::backhand
 ::bahs::backhands
-::bhc::backhand chop
-::bhcs::backhand chops
-::bhl::backhand loop
-::bhls::backhand loops
 ::gs::groundstroke
 ::gss::groundstrokes
 ::cra::contrast
@@ -3747,8 +3328,6 @@
 ::intro::introduction
 ::typ::typology
 ::typl::typological
-::vwh::vowel harmony
-::vwl::vowel lengthening
 ::svr::serve return
 ::svrs::serve returns
 ::pzi::position
@@ -3793,12 +3372,6 @@
 ::xzns::externalizations
 ::xtlt::externality
 ::xtlts::externalities
-::pxtlt::positive externality
-::pxtlts::positive externalities
-::nxtlt::negative externality
-::nxtlts::negative externalities
-::ite::internalizing the externality
-::ites::internalizing the externalities
 ::xt::extend
 ::xts::extends
 ::xtd::extended
@@ -3827,17 +3400,11 @@
 ::lsh::left-shift
 ::rsh::right-shift
 ::ixv::intersective
-::coixv::co-intersective
-::ditpn::distributive interpretation
-::itaie::in Telugu as in English
 ::begg::beginning
 ::beggs::beginnings
 ::begr::beginner
 ::begrs::beginners
 ::itb::in the beginning
-::ctax::corrective tax
-::ctaxs::corrective taxes
-::ctaxes::corrective taxes
 ::rgu::regular
 ::rguy::regularly
 ::irgu::irregular
@@ -3852,13 +3419,6 @@
 ::rglrs::regulators
 ::socc::social cost
 ::soccs::social costs
-::soccc::social-cost curve
-::socv::social value
-::socvc::social-value curve
-::pvco::private cost
-::pvcos::private costs
-::exc::external cost
-::pvv::private value
 ::exb::external benefit
 ::sop::social optimum
 ::sopal::socially optimal
@@ -3875,13 +3435,8 @@
 ::ilt::is less than
 ::lthe::less than or equal to
 ::poln::pollution
-::morsyn::morphosyntax
-::morsync::morphosyntactic
-::morsyny::morphosyntactically
-::cp::continuation play
 ::ue::unforced error
 ::ues::unforced errors
-::wur::winners/unforced errors ratio
 ::col::column
 ::cols::columns
 ::ocr::occur
@@ -3898,9 +3453,6 @@
 ::coccs::co-occurrences
 ::avb::adverb
 ::avbl::adverbial
-::nep::negative existential predicate
-::iae::increasing adverbial expression
-::dae::decreasing adverbial expression
 ::ord::ordinary
 ::ordy::ordinarily
 ::ordl::ordinal
@@ -3923,10 +3475,6 @@
 ::ktst::context-sensitivity
 ::ktis::context-insensitivity
 ::ktsy::context-sensitively
-::ksh::context-sensitive Hotstuff
-::kshs::context-sensitive-Hotstuff specifier
-::kshss::context-sensitive-Hotstuff specifiers
-::discon::discursive context
 ::ktm::Context Menu
 ::grm::grammar
 ::grms::grammars
@@ -3935,12 +3483,6 @@
 ::grmty::grammaticality
 ::ugrml::ungrammatical
 ::ugrmy::ungrammatically
-::ugrmty::ungrammaticality
-::grmf::grammar file
-::kfge::context-free grammar
-::kfgse::context-free grammars
-::kfg::CFG
-::kfgs::CFGs
 ::lang::language
 ::langs::languages
 ::langa::language application
@@ -3953,10 +3495,6 @@
 ::rlangs::regular languages
 ::tlang::target language
 ::tlangs::target languages
-::kfle::context-free language
-::kflse::context-free languages
-::kfl::CFL
-::kfls::CFLs
 ::langrr::language recognizer
 ::langrn::language recognition
 ::Engl::English
@@ -3967,7 +3505,6 @@
 ::chemt::Chemistry
 ::cheml::chemical
 ::attn::attention
-::pcc::pending consultant confirmation
 ::spo::support
 ::spos::supports
 ::spod::supported
@@ -4012,12 +3549,8 @@
 ::hgt::having to
 ::opon::opponent
 ::opons::opponents
-::vlep::vowel lengthening EMPH particle
 ::shnd::starting hand
 ::shnds::starting hands
-::shsel::starting hand selection
-::msh::marginal starting hand
-::mshs::marginal starting hands
 ::prh::premium hand
 ::prhs::premium hands
 ::prsh::premium starting hand
@@ -4036,16 +3569,11 @@
 ::dcirs::deciders
 ::dcim::decision-making
 ::dmp::decision-making process
-::dmps::decision-making processs
-::dcip::decision problem
-::dcips::decision problems
+::dmps::decision-making processes
 ::dciy::decidedly
 ::dciv::decisive
 ::dcivy::decisively
 ::udcil::undecidable
-::ddd::decision diamond
-::ddds::decision diamonds
-::mdpx::multistage-decision process
 ::dth::decide that
 ::dsth::decides that
 ::ddth::decided that
@@ -4097,7 +3625,6 @@
 ::raqts::reacquaints
 ::raqtd::reacquainted
 ::raqtg::reacquainting
-::lpg::loose/passive game
 ::itlg::intelligent
 ::itlgy::intelligently
 ::itlgc::intelligence
@@ -4147,8 +3674,6 @@
 ::emos::emotions
 ::emol::emotional
 ::emoy::emotionally
-::pse::psychoemotional
-::epp::emotional psychopathology
 ::bkc::basketcase
 ::smbl::small blind
 ::bgbl::big blind
@@ -4159,21 +3684,9 @@
 ::ckb::check box
 ::ckbs::check boxes
 ::utg::under the gun
-::itsb::in the small blind
-::itbb::in the big blind
-::ftsb::from the small blind
-::ftbb::from the big blind
-::itco::in the cutoff
-::otbn::on the button
-::ftb::from the button
 ::abo::a board of
 ::ob::on board
 ::otbd::on the board
-::fas::flop a set
-::fsas::flops a set
-::fdas::flopped a set
-::fgas::flopping a set
-::otf::on the flop
 ::trn::turn
 ::ottu::on the turn
 ::riv::river
@@ -4181,28 +3694,16 @@
 ::rivd::rivered
 ::rivg::rivering
 ::otr::on the river
-::prefl::pre-flop
-::postfl::post-flop
 ::istt::instant
 ::isty::instantly
 ::instt::instantaneous
 ::insty::instantaneously
 ::roc::rate of change
-::irofc::instantaneous rate of change
-::arofc::average rate of change
 ::dofg::delay of gratification
 ::igr::instantaneous gratification
 ::dh::drawing hand
 ::dhs::drawing hands
-::oesd::open-ended straight draw
-::dbgs::double-barreled gut shot
 ::fd::flush draw
-::9ofd::9-out flush draw
-::buf::busted flush draw
-::sd::straight draw
-::bsd::busted straight draw
-::fcd::free card
-::fcds::free cards
 ::xpk::expect
 ::xpks::expects
 ::xpkd::expected
@@ -4211,27 +3712,12 @@
 ::xpkns::expectations
 ::uxpkd::unexpected
 ::uxpky::unexpectedly
-::pxpkn::positive expectation
-::pxpkns::positive expectations
-::nxpkn::negative expectation
-::nxpkns::negative expectations
-::uxpkn::unwarranted expectation
-::uxpkns::unwarranted expectations
 ::ka::known as
 ::kaa::known as a
 ::kat::known as the
 ::aka::also known as
 ::akaa::a.k.a.
 ::ika::is known as
-::cb::continuation bet
-::cbs::continuation bets
-::vb::value bet
-::vbs::value bets
-::picc::picture card
-::piccs::picture cards
-::scd::scare card
-::scds::scare cards
-::wpp::winning poker player
 ::ratl::rational
 ::ratle::rationale
 ::raty::rationally
@@ -4245,7 +3731,6 @@
 ::rxlns::rationalizations
 ::amd::at my disposal
 ::attamd::all the tools at my disposal
-::ruru::runner-runner
 ::mmg::money-making
 ::mmr::moneymaker
 ::mcy::motorcycle
@@ -4261,9 +3746,6 @@
 ::pnkns::punctuations
 ::pmk::punctuation mark
 ::pmks::punctuation marks
-::spnk::sentence-ending punctuation
-::bigs::big bets
-::smalls::small bets
 ::coa::course of action
 ::csoa::courses of action
 ::skn::section
@@ -4297,8 +3779,6 @@
 ::knxv::connective
 ::knxvs::connectives
 ::knxt::connectivity
-::lgk::logical connective
-::lgks::logical connectives
 ::ktd::connect the dots
 ::kstd::connects the dots
 ::kdtd::connected the dots
@@ -4355,10 +3835,6 @@
 ::duxrs::destroyers
 ::dukr::destructor
 ::dukrs::destructors
-::cuxnd::constructor and destructor
-::cuxnds::constructors and destructors
-::dcad::default constructor and destructor
-::dcads::default constructors and destructors
 ::duxv::destructive
 ::duxy::destructively
 ::sdux::self-destructive
@@ -4404,11 +3880,8 @@
 ::skurs::securers
 ::skut::security
 ::skuts::securities
-::cskut::computer security
-::cskutt::Computer Security
 ::skutm::security measure
 ::skutms::security measures
-::clskut::cloud security
 ::isku::insecure
 ::iskul::insecurely
 ::iskuy::insecurely
@@ -4434,7 +3907,6 @@
 ::brkts::breakthroughs
 ::t-o::time-out
 ::t-os::time-outs
-::bbt::break/breather/time-out
 ::sr::short-run
 ::lr::long-run
 ::itlr::in the long run
@@ -4453,19 +3925,12 @@
 ::fwks::frameworks
 ::frw::framework
 ::frws::frameworks
-::lpe::low probability event
-::lpes::low probability events
-::lfe::low frequency event
-::lfes::low frequency events
 ::opp::opponent
 ::opps::opponents
 ::ev::event
 ::evs::events
 ::evl::eventual
 ::evy::eventually
-::evd::event-driven
-::evh::event handler
-::evhs::event handlers
 ::pow::pearls of wisdom
 ::esc::escape
 ::escs::escapes
@@ -4483,8 +3948,6 @@
 ::wks::works
 ::wkf::workflow
 ::wkfs::workflows
-::wfd::workflow diagram
-::wfds::workflow diagrams
 ::itw::in the works
 ::wkd::worked
 ::wkg::working
@@ -4495,7 +3958,6 @@
 ::arwk::artwork
 ::hwk::homework
 ::cwk::coursework
-::mwks::MathWorks
 ::tbk::textbook
 ::tbks::textbooks
 ::spsh::spreadsheet
@@ -4521,7 +3983,6 @@
 ::dby::day before yesterday
 ::dat::day after tomorrow
 ::shd::showdown
-::ibl::induced bluff
 ::oapn::On a positive note
 ::oapnt::On a positive note, though
 ::fru::frustrate
@@ -4531,7 +3992,6 @@
 ::fruy::frustratingly
 ::frun::frustration
 ::fruns::frustrations
-::obbw::one big ball of wax
 ::xtx::extinguish
 ::xtxs::extinguishes
 ::xtxd::extinguished
@@ -4560,16 +4020,10 @@
 ::cpuy::computationally
 ::cpur::computer
 ::cpurs::computers
-::cpue::central processing unit
-::cpuse::central processing units
 ::cpua::CPU
 ::cpusa::computes
-::gpue::graphics processing unit
-::gpuse::graphics processing units
 ::gpu::GPU
 ::gpus::GPUs
-::ltop::laptop
-::ltops::laptops
 ::lapt::laptop
 ::lapts::laptops
 ::cmd::command
@@ -4580,23 +4034,14 @@
 ::cmdbs::command buttons
 ::cmdl::command line
 ::cmdlt::Command Line
-::clie::command-line interpreter
-::clies::command-line interpreters
-::clia::CLI
-::clisa::CLIs
-::clp::command line parameter
-::clps::command line parameters
 ::cmdp::command prompt
 ::cmdps::command prompts
 ::cpmp::command prompt
 ::cpmps::command prompts
-::csw::console window
 ::shl::shell
 ::shls::shells
 ::ker::kernel
 ::kers::kernels
-::cnc::command-and-control
-::cncp::command-and-control policy
 ::nntl::nonetheless
 ::nvtl::nevertheless
 ::dfk::difficult
@@ -4634,8 +4079,6 @@
 ::usom::unhealthy state of mind
 ::rsom::rational state of mind
 ::isom::irrational state of mind
-::soca::state of calm
-::stor::state of rage
 ::pom::peace of mind
 ::polln::pollution
 ::xs::excess
@@ -4653,9 +4096,7 @@
 ::dvans::deviations
 ::dvar::deviator
 ::dvars::deviators
-::edvan::emphatic deviation::sd::standard deviation
 ::att::at this time
-::atpt::at the poker table
 ::dlr::dealer
 ::pl::play
 ::pls::plays
@@ -4675,7 +4116,6 @@
 ::sgzns::strategizations
 ::sgzr::strategizer
 ::sgzrs::strategizers
-::po::pot odds
 ::idf::identify
 ::ids::identifies
 ::idd::identified
@@ -4689,11 +4129,6 @@
 ::idt::identity
 ::idts::identities
 ::noncon::non-confrontational
-::$$::money
-::+$::winning money
-::-$::losing money
-::wgh::winning hand
-::lgh::losing hand
 ::sk::schedule
 ::sks::schedules
 ::skd::scheduled
@@ -4722,18 +4157,6 @@
 ::rclrs::recallers
 ::clbk::callback
 ::clbks::callbacks
-::cbf::callback function
-::cbfs::callback functions
-::fcl::flat call
-::fcls::flat calls
-::fcld::flat called
-::fclg::flat calling
-::fclr::flat caller
-::scl::smooth call
-::scls::smooth calls
-::scld::smooth called
-::sclg::smooth calling
-::sclr::smooth caller
 ::cocl::cold call
 ::cocls::cold calls
 ::cocld::cold called
@@ -4758,36 +4181,12 @@
 ::ucks::unchecks
 ::uckd::unchecked
 ::uckg::unchecking
-::ckcl::check-call
-::ckcls::check-calls
-::ckcld::check-called
-::mk::muck
-::mks::mucks
-::mkd::mucked
-::mkg::mucking
-::ckf::check-fold
-::ckfs::check-folds
-::ckfd::check-folded
 ::rs::raise
 ::rss::raises
 ::rsd::raised
 ::rsg::raising
 ::rsr::raiser
 ::rsrs::raisers
-::pfr::pre-flop raise
-::pfrr::pre-flop raiser
-::rpf::raised pre-flop
-::rtf::raised the flop
-::rtt::raised the turn
-::rrs::re-raise
-::rrss::re-raises
-::rrsd::re-raised
-::rrsg::re-raising
-::cr::check-raise
-::crs::check-raises
-::crd::check-raised
-::crg::check-raising
-::ckr::check-round
 ::ngl::neglect
 ::ngls::neglects
 ::ngld::neglected
@@ -4799,8 +4198,6 @@
 ::ngly::negligently
 ::sdn::sudden
 ::sdl::suddenly
-::hpp::hand-playing procedure
-::mrs::multiple redundancies
 ::finl::financial
 ::finly::financially
 ::finll::financial loss
@@ -4868,8 +4265,6 @@
 ::thpxs::thought processes
 ::ltp::logical thought process
 ::ltps::logical thought processs
-::tda::thoughts, decisions, and actions
-::stda::self-image, thought processes, decisions, and actions
 ::attho::at the thought of
 ::retk::rethink
 ::retks::rethinks
@@ -4973,8 +4368,6 @@
 ::fk::factor
 ::fks::factors
 ::fkl::factorial
-::tfk::tilt factor
-::tfks::tilt factors
 ::rfk::refactor
 ::rfks::refactors
 ::rfkd::refactored
@@ -5020,14 +4413,6 @@
 ::pcs::precise
 ::pcsn::precision
 ::pcsl::precisely
-::spcsn::single-precision
-::spfp::single-precision floating point
-::spfpv::single-precision floating point value
-::spfpvs::single-precision floating point values
-::dpcsn::double-precision
-::dpfp::double-precision floating point
-::dpfpv::double-precision floating point value
-::dpfpvs::double-precision floating point values
 ::wkn::weekend
 ::wkns::weekends
 ::rct::recent
@@ -5064,27 +4449,13 @@
 ::cmnrs::communicators
 ::cmnt::community
 ::cmnts::communities
-::elbg::Elizabeth Gilbert
-::elzbg::Elizabeth Gilbert
-::lizg::Elizabeth Gilbert
-::epl::Eat, Pray, Love
 ::akg::asking
 ::avg::average
 ::avgs::averages
 ::avgd::averaged
 ::avgg::averaging
-::aavg::askAverage
-::asum::askSum
-::pug::public good
-::pugs::public goods
-::pvag::private good
-::pvags::private goods
 ::rex::resource
 ::rexs::resources
-::crx::common resource
-::crxs::common resources
-::nrx::natural resource
-::nrxs::natural resources
 ::dim::diminish
 ::dims::diminishes
 ::dimd::diminished
@@ -5115,18 +4486,12 @@
 ::opxrr::oppressor
 ::opxrrs::oppressors
 ::cba::cost-benefit analysis
-::cfd::Chinese For Dummies
 ::mdrn::Mandarin
 ::xc::exceed
 ::xcs::exceeds
 ::xcd::exceeded
 ::xcg::exceeding
 ::xcy::exceedingly
-::cnr::congested nontoll road
-::cnrs::congested nontoll roads
-::unr::uncongested nontoll road 
-::unrs::uncongested nontoll roads
-::fito::fish in the ocean
 ::cata::catastrophe
 ::catac::catastrophic
 ::catay::catastrophically
@@ -5134,8 +4499,6 @@
 ::anecs::anecdotes
 ::anecl::anecdotal
 ::anecy::anecdotally
-::anecd::'%anecdotes%\debugging.docx'
-::anecg::'%anecdotes%\general.docx'
 ::vul::vulnerable
 ::vult::vulnerability
 ::vults::vulnerabilities
@@ -5188,10 +4551,6 @@
 ::sfyg::simplifying
 ::sfyn::simplification
 ::sfyns::simplifications
-::sp::slowplay
-::sps::slowplays
-::spd::slowplayed
-::spg::slowplaying
 ::cip::case in point
 ::tppt::the power of positive thinking
 ::nrg::energy
@@ -5200,15 +4559,11 @@
 ::rbow::rainbow
 ::rbows::rainbows
 ::bl::bottom line
-::hh::hand history
 ::sego::superego
 ::itw::in touch with
 ::gitw::get in touch with
 ::gmitw::get more in touch with
 ::gse::get in touch with my superego
-::sicf::superego-id conflict
-::sicv::superego-id conversation
-::tcmc::The Count of Monte Cristo
 ::alte::alternate
 ::alts::alternates
 ::altd::alternated
@@ -5232,35 +4587,18 @@
 ::aamop::as a matter of principle
 ::eaamop::even as a matter of principle
 ::jaamop::just as a matter of principle
-::bp::benefits principle
-::atp::ability to pay
-::atpp::ability-to-pay principle
 ::eqt::equity
 ::eqtl::equitable
 ::eqtly::equitably
-::vq::vertical equity
-::hq::horizontal equity
 ::tr::tax rate
 ::trs::tax rates
-::atr::average tax rate
-::mtr::marginal tax rate
 ::itx::income tax
-::iit::individual income tax
-::ptx::personal income tax
-::cit::corporate income tax
-::stx::social insurance tax
-::aor::allocation of resources
-::eaor::efficient allocation of resources
-::iaor::inefficient allocation of resources
-::lrs::limited resources
 ::taxp::taxpayer
 ::taxps::taxpayers
 ::tx::transfer
 ::txs::transfers
 ::txd::transferred
 ::txg::transferring
-::tp::transfer payment
-::tps::transfer payments
 ::svc::service
 ::svcs::services
 ::gors::good or service
@@ -5268,16 +4606,8 @@
 ::gns::goods and services
 ::pch::purchase
 ::pchs::purchases
-::trut::truth table
-::trutt::Truth Table
-::truts::truth tables
-::trutst::Truth Tables
 ::ttc::to the contrary
 ::qttc::quite to the contrary
-::acg::accrued capital gain
-::acgs::accrued capital gains
-::rcg::realized capital gain
-::rcgs::realized capital gains
 ::otgt::on the grounds that
 ::bns::bought and sold
 ::dns::demanded and supplied
@@ -5313,37 +4643,6 @@
 ::prim::primitive
 ::prims::primitives
 ::primy::primitively
-::pty::primitive type
-::ptys::primitive types
-::ptyv::primitive-type variable
-::ptyvs::primitive-type variables
-::bty::built-in type
-::btys::built-in types
-::bif::built-in function
-::bifs::built-in functions
-::biv::built-in variable
-::bivs::built-in variables
-::urd::user-defined
-::udk::user-defined class
-::udks::user-defined classes
-::udf::user-defined function
-::udfs::user-defined functions
-::udt::user-defined type
-::udts::user-defined types
-::udv::user-defined variable
-::udvs::user-defined variables
-::gkl::generic class
-::gkls::generic classes
-::gpgg::generic programming
-::gty::generic type
-::gtys::generic types
-::gmed::generic method
-::gmeds::generic methods
-::dt::data type
-::dts::data types
-::gt::generic type
-::gts::generic types
-::tprm::type parameter
 ::sg::string
 ::sgu::String
 ::sgsu::Strings
@@ -5352,34 +4651,16 @@
 ::sgg::stringing
 ::sgr::stringer
 ::sgrs::stringers
-::esg::empty string
-::esgs::empty strings
-::sgst::stringstream
-::ssg::substring
-::ssgs::substrings
-::tosg::toString()
 ::dgl::digital
 ::dgy::digitally
 ::lg::logic
 ::lgl::logical
 ::lgy::logically
 ::ilgl::illogical
-::leq::logical equivalence
-::leqs::logical equivalences
-::lxn, lxp::logical expression
-::lxns, lxps::logical expressions
-::lngn::logical negation
-::dglg::digital logic
-::colg::combinational logic
-::cdl::conditional logic
-::slg::sequential logic
-::lgg::logic gate
-::lggs::logic gates
 ::lgt::logistic
 ::lgts::logistics
 ::lgtl::logistical
 ::lgty::logistically
-::td::timing diagram
 ::op::operate
 ::ops::operates
 ::opd::operated
@@ -5392,24 +4673,6 @@
 ::oprs::operators
 ::opv::operative
 ::opvs::operatives
-::1opn::unary operation
-::1opns::unary operations
-::1opr::unary operator
-::1oprs::unary operators
-::2opn::binary operation
-::2opns::binary operations
-::2opr::binary operator
-::2oprs::binary operators
-::bopn::bit operation
-::bopns::bit operations
-::mio::micro-operation
-::mios::micro-operations
-::miot::Micro-Operation
-::miost::Micro-Operations
-::mao::macro-operation
-::maos::macro-operations
-::sopn::suboperation
-::sopns::suboperations
 ::mopn::mode of operation
 ::msopn::modes of operation
 ::ooor::out of order
@@ -5438,14 +4701,6 @@
 ::oset::Operating System
 ::osse::operating systems
 ::osset::Operating Systems
-::os::OS
-::oss::OSs
-::cmos::commodity operating system
-::cmoss::commodity operating systems
-::epc::explicit cost
-::epcs::explicit costs
-::ipc::implicit cost
-::ipcs::implicit costs
 ::psat::past
 ::fttt::from time to time
 ::comf::comfortable
@@ -5457,68 +4712,17 @@
 ::ivems::investments
 ::iver::investor
 ::ivers::investors
-::pfn::production function
-::tcc::total-cost curve
 ::xpn::exponent
 ::xpns::exponents
 ::xpnl::exponential
 ::xpny::exponentially
 ::xpnn::exponentiation
-::rxpnn::reverse exponentiation
-::mgp::marginal product
-::dmp::diminishing marginal product
-::mgc::marginal cost
-::mgct::Marginal Cost
-::mcc::marginal-cost curve
-::mccs::marginal-cost curves
-::mgr::marginal revenue
-::mgrt::Marginal Revenue
-::mrc::marginal-revenue curve
-::mrcs::marginal-revenue curves
-::avr::average revenue
-::avrt::Average Revenue
-::ttlr::total revenue
-::ttlrt::Total Revenue
-::ttlc::total cost
-::ttlcs::total costs
-::ttlct::Total Cost
-::ttlcst::Total Costs
-::avtc::average total cost
-::atca::ATC
-::avtct::Average Total Cost
-::atcc::average-total-cost curve
-::atcca::ATC curve
-::acp::average-cost pricing
-::fxc::fixed cost
-::fxct::Fixed Cost
-::fxcs::fixed costs
-::afc::average fixed cost
-::afcc::average-fixed-cost curve
-::vc::variable cost
-::vct::Variable Cost
-::vcs::variable costs
-::avvc::average variable cost
-::avvct::Average Variable Cost
-::avcc::average-variable-cost curve
-::cc::cost curve
-::ccs::cost curves
 ::ip::input
 ::ips::inputs
 ::ipg::inputting
-::ipb::'InputBox'
-::ipbc::'InputBox' command
-::ipf::input file
-::ipfs::input files
-::ipfk::inputFile
-::bip::'BlockInput'
-::bipc::'BlockInput' command
-::fis::'FileInputStream'
 ::ou::output
 ::ous::outputs
 ::oug::outputting
-::ouf::output file
-::oufs::output files
-::ouv::OutputVar
 ::srm::stream
 ::srms::streams
 ::srmd::streamed
@@ -5535,25 +4739,12 @@
 ::slig::streamlining
 ::slir::streamliner
 ::slirs::streamliners
-::sio::stream insertion operator
-::sxo::stream extraction operator
-::psm::parameterized stream manipulator
-::psms::parameterized stream manipulators
-::isrm::input stream
-::isrmk::InputStream
-::osrmk::OutputStream
-::sis::standard input stream
-::sos::standard output stream
 ::iao::input and output
 ::iaos::inputs and outputs
 ::ol::output level
 ::ols::output level
 ::loo::level of output
 ::loos::levels of output
-::eloo::efficient level of output
-::qoo::quantity of output
-::uoo::unit of output
-::uoos::units of output
 ::nous::number of units
 ::dsp::display
 ::dsps::displays
@@ -5563,19 +4754,12 @@
 ::dspg::displaying
 ::dal::dialog
 ::dals::dialogs
-::dalb::dialog box
-::dalbs::dialog boxes
 ::msg::message
 ::msgs::messages
 ::msgd::messaged
 ::msgg::messaging
 ::msgr::messager
 ::msgrs::messagers
-::msgb::Message Box
-::msgbs::Message Boxes
-::smd::showMessageDialog
-::md::message dialog
-::mds::message dialogs
 ::tmsg::text message
 ::tmsgs::text messages
 ::tmsgd::text messaged
@@ -5626,62 +4810,16 @@
 ::pgt::programmability
 ::pgc::programmatic
 ::pgy::programmatically
-::pgf::program flow
-::fok::flow of control
-::foxq::flow of execution
-::pgw::program window
-::pgws::program windows
 ::hlv::high-level
 ::hrlv::higher-level
 ::llv::low-level
 ::lrlv::lower-level
 ::clang::computer language
 ::clangs::computer languages
-::hcl::high-level computer language
-::hcls::high-level computer languages
-::plang::programming language
-::plangs::programming languages
-::pglg::programming language
-::hll::high-level language
-::hlls::high-level languages
-::lll::low-level language
-::llls::low-level languages
-::hlpl::high-level programming language
-::hlpls::high-level programming languages
-::llpl::low-level programming language
-::llpls::low-level programming languages
 ::hlp::high-level programmer
 ::hlps::high-level programmers
 ::llp::low-level programmer
 ::llps::low-level programmers
-::aslp::assembly language programmer
-::paf::Programs and Features
-::c174::CECS 174
-::c201::CECS 201
-::c282::CECS 282
-::c323::CECS 323
-::c341::CECS 341
-::c343::CECS 343
-::c445::CECS 445
-::c475::CECS 475
-::c519::CECS 519
-::boit::Boi Tran
-::c526::CECS 526
-::c528::CECS 528
-::c543::CECS 543
-::c547::CECS 547
-::c575::CECS 575
-::c578::CECS 578
-::c590::CECS 590
-::cdw::Console.Write( "
-::cdwl::Console.WriteLine( "
-::s.o::System.out
-::pln::(println
-::sop::System.out.print
-::sopf::System.out.printf
-::sopl::System.out.println
-::jfp::“Java for Programmers” (Deitel & Deitel), p.
-::-- (decrement)::– –
 ::med::method
 ::meds::methods
 ::medc::methodic
@@ -5691,16 +4829,6 @@
 ::medys::methodologies
 ::medl::methodological
 ::medly::methodologically
-::pccl::procedure call
-::pccls::procedure calls
-::fc::function call
-::fcs::function calls
-::mc::method call
-::mcs::method calls
-::camed::call a method
-::csamed::calls a method
-::camw::call a method which will
-::camsw, csamw::calls a method which will
 ::ax::access
 ::axs::accesses
 ::axd::accessed
@@ -5712,12 +4840,6 @@
 ::iaxly::inaccessibly
 ::axr::accessor
 ::axrs::accessors
-::amed::accessor method
-::ameds::accessor methods
-::axrm::accessor method
-::axrms::accessor methods
-::axm::access modifier
-::axms::access modifiers
 ::rax::random access
 ::sax::sequential access
 ::mue::mutate
@@ -5735,30 +4857,6 @@
 ::imubt::immutability
 ::imuby::immutably
 ::imubs::immutable state
-::mmed::mutator method
-::mmeds::mutator methods
-::murm::mutator method
-::murms::mutator methods
-::sm::set method
-::sms::set methods
-::sfn::set function
-::sfns::set functions
-::str::setter
-::strs::setters
-::sng::setting
-::sngs::settings
-::gef::get function
-::gefs::get functions
-::gtr::getter
-::gtrs::getters
-::gnsf::get and set function
-::gnsfs::get and set functions
-::gasf::get and set function
-::gasfs::get and set functions
-::gns::getter and setter
-::gnss::getters and setters
-::pgns::public getter and setter
-::pgnss::public getters and setters
 ::ret::return
 ::rets::returns
 ::retd::returned
@@ -5767,8 +4865,6 @@
 ::retrs::returners
 ::rv::return value
 ::rvs::return values
-::jop::JOptionPane
-::sid::showInputDialog
 ::rcc::reconcile
 ::rccs::reconciles
 ::rccd::reconciled
@@ -5783,16 +4879,6 @@
 ::tkn::token
 ::tkns::tokens
 ::ptkns::.tokens
-::tkf::.tokens file
-::tkfs::.tokens files
-::tsrm::token stream
-::tsrms::token streams
-::btsrm::BufferedTokenStream
-::btsrms::BufferedTokenStreams
-::ctsrm::CommonTokenStream
-::ctsrms::CommonTokenStreams
-::tsrw::TokenStreamRewriter
-::tsrws::TokenStreamRewriters
 ::tkz::tokenize
 ::tkzs::tokenizes
 ::tkzd::tokenized
@@ -5805,12 +4891,6 @@
 ::exy::exactly
 ::stmt::statement
 ::stmts::statements
-::sstm::selection statement
-::sstms::selection statements
-::sskw::selection-statement keyword
-::sskws::selection-statement keywords
-::ssrk::selection structure
-::ssrks::selection structures
 ::ltor::left-to-right
 ::rtol::right-to-left
 ::bwz::bitwise
@@ -5825,13 +4905,6 @@
 ::rmng::remaining
 ::rmnr::remainder
 ::rmnrs::remainders
-::irmnr::integer remainder
-::slsh::signed left shift
-::uslsh::unsigned left shift
-::srsh::signed right shift
-::rsse::right shift with sign extension
-::usrs::unsigned right shift
-::rsze::right shift with zero extension
 ::imt::increment
 ::imts::increments
 ::imtd::incremented
@@ -5859,24 +4932,6 @@
 ::tof::true or false
 ::alg::algebra
 ::algc::algebraic
-::bool::'bool'
-::boo::boolean
-::booa::boolean algebra
-::booc::boolean compound
-::boocs::boolean compounds
-::boolg::boolean logic
-::boox::boolean expression
-::booxs::boolean expressions
-::cxprn::compound expression
-::cxprns::compound expressions
-::bv::boolean variable
-::bvs::boolean variables
-::bcv::boolean control variable
-::bcvs::boolean control variables
-::bf::boolean function
-::bfs::boolean functions
-::bopr::boolean operator
-::boprs::boolean operators
 ::mnp::manipulate
 ::mnps::manipulates
 ::mnpd::manipulated
@@ -5888,9 +4943,6 @@
 ::absn::absorption
 ::thm::theorem
 ::thms::theorems
-::efts::efficient scale
-::eos::economies of scale
-::dos::diseconomies of scale
 ::spx::special
 ::spxl::specially
 ::spxt::specialist
@@ -5926,7 +4978,6 @@
 ::ajurs::adjusters
 ::fch::flowchart
 ::fchs::flowcharts
-::kmap::Karnaugh map
 ::dup::duplicate
 ::dups::duplicates
 ::dupd::duplicated
@@ -5934,86 +4985,21 @@
 ::dupn::duplication
 ::dupns::duplications
 ::dupy::duplicately
-::dupass::duplicate/redundant assignment
-::1vt::single-variable theorem
-::sb::SB
-::sbe::Sara Bareilles
-::sbw::www.sarabmusic.com
-::ls::Love Song
-::lotr::Love On The Rocks
-::mtm::Many The Miles
-::sotdotb::Sittin' on the Dock of the Bay
-::kh::Kaleidoscope Heart
-::ggoy::Gonna Get Over You
-::koa::King of Anything
-::tbu::The Blessed Unrest
-::scl::Satellite Call
-::lbd::Little Black Dress
-::casi::Cassiopeia
-::1000t::1000 Times
-::tybr::the yellow brick road
-::gybr::Goodbye Yellow Brick Road
-::iye::In Your Eyes
-::iyw::(If You're Wondering If I Want You To) I Want You To
-::sutbm::She Used To Be Mine
 ::cme::comment
 ::cmes::comments
 ::cmed::commented
 ::cmeg::commenting
 ::cmer::commenter
 ::cmers::commenters
-::cmef::comment flag
-::cmefs::comment flags
-::lcme::line comment
-::lcmes::line comments
-::lcmed::line commented
-::lcmeg::line commenting
-::lcmt::'LINE_COMMENT'
-::eol::end-of-line
-::eolc::end-of-line comment
-::eolcs::end-of-line comments
-::1li::single-line
-::1lc::single-line comment
-::1lcs::single-line comments
-::mtli::multi-line
-::mlc::multi-line comment
-::mlcs::multi-line comments
-::pcme::'{#}CommentFlag'
-::cmo::comment out
-::cmso::comments out
-::cmdo::commented out
-::cmgo::commenting out
-::ucme::uncomment
-::ucmes::uncomments
-::ucmed::uncommented
-::ucmeg::uncommenting
-::ucmer::uncommenter
-::ucmers::uncommenters
-::clb::curly brace
-::clbs::curly braces
-::ifs::'if' statement
-::ifss::'if' statements
-::ibrx::'if' branch
-::eibrx::'else if' branch
-::ebrx::'else' branch
 ::ay::array
 ::ays::arrays
-::aye::array element
-::ayes::array elements
-::ayl::ArrayList
-::ayle::ArrayList<E>
-::aay::associative array
-::aays::associative arrays
 ::itr::iterate
 ::itrs::iterates
 ::itrd::iterated
 ::itrg::iterating
-::itrl::iterable
-::itrlt::Iterable<T>
 ::itrn::iteration
 ::itrns::iterations
 ::itrr::iterator
-::itrre::Iterator<E>
 ::itrrs::iterators
 ::itrv::iterative
 ::itry::iteratively
@@ -6027,38 +5013,6 @@
 ::lps::loops
 ::lpd::looped
 ::lpg::looping
-::lc::loop counter
-::tlc::Test the loop counter to determine whether or not to
-::itlc::initialize the loop counter
-::itlcs::initializes the loop counter
-::itlcd::initialized the loop counter
-::itlcg::initializing the loop counter
-::itlcn::initialization of the loop counter
-::lc::looped call
-::inlp::inner loop
-::inlps::inner loops
-::ilc::inner loop counter
-::ili::inner loop iteration
-::ilis::inner loop iterations
-::mlp::middle loop
-::mlps::middle loops
-::mlpi::middle loop iteration
-::mlpis::middle loop iterations
-::olp::outer loop
-::olps::outer loops
-::olc::outer loop counter
-::oli::outer loop iteration
-::olis::outer loop iterations
-::flp::for loop
-::flps::for loops
-::nflp::nested for loop
-::nflps::nested for loops
-::efl::exit for loop
-::fli::for (int ii = 0; ii < ??.length; ii{+}{+}) {
-::wlp::while loop
-::wlps::while loops
-::nwlp::nested while loop
-::nwlps::nested while loops
 ::fzx::physics
 ::fzxt::Physics
 ::fzk::physical
@@ -6090,10 +5044,6 @@
 ::dzrs::designers
 ::bdz::by design
 ::byd::by design
-::dzdc::design decision
-::dzdcs::design decisions
-::atdzdc::architectural design decision
-::atdzdcs::architectural design decisions
 ::dzn::designate
 ::dzns::designates
 ::dznd::designated
@@ -6108,20 +5058,12 @@
 ::rdzrs::redesigners
 ::tbch::test bench
 ::tbchs::test benches
-::fa::full adder
-::fas::full adders
-::fba::4-bit adder
-::fbas::4-bit adders
-::sba::16-bit adder
 ::cin::carry-in
 ::cout::carry-out
-::rca::ripple-carry adder
 ::sbi::seat belt indicator
 ::cc::circuit
 ::ccs::circuits
 ::ccy::circuitry
-::cd::circuit diagram
-::cds::circuit diagrams
 ::shcc::short circuit
 ::shccs::short circuits
 ::px::process
@@ -6142,12 +5084,6 @@
 ::mupxrs::multiprocessors
 ::mipxr::microprocessor
 ::mipxrs::microprocessors
-::epxr::embedded processor
-::epxrs::embedded processors
-::es::embedded system
-::ess::embedded systems
-::mcr::microcontroller
-::mcrs::microcontrollers
 ::mex::Midterm Exam
 ::mer::Midterm Exam Review
 ::fex::Final Exam
@@ -6170,44 +5106,18 @@
 ::asym::asymmetry
 ::asymc::asymmetric
 ::asymy::asymmetrically
-::shp::Shift {+} 
-::cp::Ctrl {+} 
-::ctrla::Ctrl
-::ctrlq::'Ctrl'
-::ap::Alt {+} 
-::altq::'Alt'
-::cshp::Ctrl {+} Shift {+} 
-::ashp::Alt {+} Shift {+} 
-::capl::Ctrl {+} Alt {+} 
-::cashp::Ctrl {+} Alt {+} Shift {+} 
 ::cpv::competitive
 ::cpvy::competitively
-::pcpv::perfectly competitive
-::cpvf::competitive firm
-::cpvfs::competitive firms
-::cmk::competitive market
-::cmks::competitive markets
 ::pf::profit
 ::pfs::profits
 ::pfl::profitable
 ::pfy::profitably
-::pfmaxg::profit-maximizing
-::pfmf::profit-maximizing firm
-::pfmfs::profit-maximizing firms
-::pfmcf::profit-maximizing competitive firm
-::pfmcfs::profit-maximizing competitive firms
-::pfmq::profit-maximizing quantity
-::pfmp::profit-maximizing price
-::cfp::competitive firm's profit-maximizing quantity
 ::ch.::chapter
-::qmax::QMAX
-::qmp::“QMAX principle”
 ::rlv::relevant
 ::rlvc::relevance
 ::irlv::irrelevant
 ::irlvc::irrelevance
 ::enex::entry and exit
-::fenex::free entry and exit
 ::qfr::Questions For Review
 ::pna::Pneumonia
 ::typ::typical
@@ -6220,10 +5130,6 @@
 ::prmcy::parametrically
 ::dprm::default parameter
 ::dprms::default parameters
-::iprm::implicit parameter
-::eprm::explicit parameter
-::oprm::optional parameter
-::oprms::optional parameters
 ::prmz::parameterize
 ::prmzs::parameterizes
 ::prmzd::parameterized
@@ -6232,7 +5138,6 @@
 ::prmzns::parameterizations
 ::prmzr::parameterizer
 ::prmzrs::parameterizers
-::askNum::askNumber
 ::va::valid
 ::vay::validly
 ::valt::validity
@@ -6275,11 +5180,8 @@
 ::dyns::dynamics
 ::dynt::dynamicity
 ::dyny::dynamically
-::dynp::dynamic programming
-::dynpt::Dynamic Programming
 ::sta::static
 ::staly::statically
-::svd::static vs. dynamic
 ::boi::bit of information
 ::bois::bits of information
 ::ppg::propagate
@@ -6288,12 +5190,7 @@
 ::ppgg::propagating
 ::ppgn::propagation
 ::ppgns::propagations
-::pd::propagation delay
-::pds::propagation delays
-::ctq::clock-to-Q
-::tctq::tclock-to-Q
 ::pers::periods
-::pera::per
 ::poft::period of time
 ::stb::stable
 ::stbt::stability
@@ -6317,7 +5214,6 @@
 ::rect::rectangle
 ::rectr::rectangular
 ::ak::active
-::aks::active state
 ::aky::actively
 ::akt::activity
 ::akts::activities
@@ -6379,46 +5275,20 @@
 ::ifcrs::interfacers
 ::pui::public interface
 ::pifc::public interface
-::ui::UI
-::uie::user interface
-::uis::UIs
-::uise::user interfaces
-::gui::GUI
-::guie::graphical user interface
-::guis::GUIs
-::guise::graphical user interfaces
-::urx::UX
-::urxe::user experience
 ::kl::class
 ::kls::classes
-::akl::anonymous class
-::akls::anonymous classes
-::aoj::anonymous object
-::aojs::anonymous objects
 ::klc::classic
 ::klcs::classics
 ::klcl::classical
 ::klcy::classically
-::klt::class template
-::klts::class templates
 ::supk::superclass
 ::supks::superclasses
 ::subk::subclass
 ::subks::subclasses
 ::subkd::subclassed
 ::subkg::subclassing
-::ikl::inner class
-::ikls::inner classes
-::nkl::nested class
-::nkls::nested classes
-::bkl::base class
-::bkls::base classes
-::drk::derived class
-::drks::derived classes
 ::pxy::proxy
 ::pxz::proxies
-::pxk::proxy class
-::pxks::proxy classes
 ::klf::classify
 ::klfs::classifies
 ::klfd::classified
@@ -6427,7 +5297,6 @@
 ::klfns::classifications
 ::klfr::classifier
 ::klfrs::classifiers
-::pklf::pattern classification
 ::impl::implement
 ::impls::implements
 ::impld::implemented
@@ -6452,10 +5321,6 @@
 ::ikg::instructing
 ::ikn::instruction
 ::ikns::instructions
-::dti::data transfer instruction
-::dtis::data transfer instructions
-::ifmt, iknf::instruction format
-::ifmts, iknfs::instruction formats
 ::bto::belong to
 ::bsto::belongs to
 ::bdto::belonged to
@@ -6484,58 +5349,6 @@
 ::cyd::cycled
 ::cyg::cycling
 ::cyc::cyclic
-::cyth::CycleThrough...
-::cth::CycleThrough... Hotkey
-::cths::CycleThrough... Hotkeys
-::chk::Cycle... Hotkey
-::chks::Cycle... Hotkeys
-::cytg::CycleThroughGroup_f(Group)
-::ctgh::CycleThroughGroup_f(Group) Hotkey
-::ctghs::CycleThroughGroup_f(Group) Hotkeys
-::ctx::CycleThroughExplorer
-::ctxh::CycleThroughExplorer Hotkey
-::ctw::CycleThroughWebBrowsers
-::ctwh::CycleThroughWebBrowsers Hotkey
-::acyc::acyclic
-::scy::single-cycle
-::scd::single-cycle datapath
-::scdz::single-cycle design
-::mucy::multiple-cycle
-::mcd::multiple-cycle datapath
-::mcdz::multiple-cycle design
-::clkc::clock cycle
-::clkcs::clock cycles
-::macy::machine cycle
-::mca::MC
-::macys::machine cycles
-::mcsa::MCs
-::dcy::duty cycle
-::dca::DC
-::dcys::duty cycles
-::dcsa::DCs
-::mf::machine frequency
-::clkf::clock frequency
-::clkp::clock period
-::clkps::clock periods
-::ce::clock edge
-::ces::clock edges
-::clksv, csens::clock-sensitive
-::akej::active edge
-::akejc::active edge of the clock
-::akejs::active edges
-::akejsc::active edges of the clock
-::pej::positive edge
-::pejc::positive edge of the clock
-::nej::negative edge
-::nejc::negative edge of the clock
-::pejt::positive-edge triggered
-::nejt::negative-edge triggered
-::jvd::Javadoc
-::jvds::Javadocs
-::jvdd::Javadoc'ed
-::jvdg::Javadoc'ing
-::jvdr::Javadoc'er
-::jvdrs::Javadoc'ers
 ::lkl::likely
 ::ulkl::unlikely
 ::mlk::most likely
@@ -6603,10 +5416,6 @@
 ::zisr::resistor
 ::zisrs::resistors
 ::polr::path of least resistance
-::ltc::LabThreeCounter
-::hak::high-active
-::lak::low-active
-::udctr::up/down counter
 ::dgn::degenerate
 ::dgns::degenerates
 ::dgnd::degenerated
@@ -6642,25 +5451,10 @@
 ::xqrs::executors
 ::xqv::executive
 ::xqvs::executives
-::2xd::double executed
-::xqts::execute the script
 ::thn::thumbnail
 ::thns::thumbnails
-::thnp::thumbnail panel
 ::ww::window
 ::wz::windows
-::wwd::windowed
-::wwg::windowing
-::cww::console window
-::cwws::console windows
-::wzk::Windows key
-::lwk::Left Windows key
-::rwk::Right Windows key
-::wx::Windows Explorer
-::abe::AppBased Explorer
-::wwsp::WindowSpace
-::e/d::enable/disable
-::d/e::disable/enable
 ::krl::control
 ::krls::controls
 ::krld::controlled
@@ -6670,8 +5464,6 @@
 ::krlp::Control Panel
 ::ksig::control signal
 ::ksigs::control signals
-::ksrk::control structure
-::ksrks::control structures
 ::kta::contain
 ::ktas::contains
 ::ktad::contained
@@ -6726,9 +5518,6 @@
 ::ccrt::concurrent
 ::ccrc::concurrency
 ::ccry::concurrently
-::ccpug::concurrent computing
-::ccsys::concurrent computing system
-::ccss::concurrent computing systems
 ::meb::member
 ::mebs::members
 ::mbp::membership
@@ -6745,8 +5534,6 @@
 ::tradl::traditional
 ::trady::traditionally
 ::soa::state of affairs
-::s/s::session/streak
-::s/s/s::sessions/streaks
 ::ktk::contact
 ::ktks::contacts
 ::ktkd::contacted
@@ -6787,21 +5574,12 @@
 ::tlis::timelines
 ::tml::timeline
 ::tmls::timelines
-::gtl::goal timeline
-::gtls::goal timelines
-::gtlt::Goal Timeline
-::gtlst::Goal Timelines
-::hwdia::hand-written diagram
-::hwdias::hand-written diagrams
-::shwd::See hand-written diagram
 ::hwn::hand-written notes
 ::shwn::See hand-written notes
 ::imd::intermediate
 ::imdy::intermediately
 ::imdr::intermediary
 ::imdrs::intermediaries
-::isig::intermediate signal
-::isigs::intermediate signals
 ::cri::criteria
 ::crin::criterion
 ::enthu::enthusiasm
@@ -6821,7 +5599,6 @@
 ::fcmim::fear of commitment
 ::lcmim::lack of commitment
 ::oafa::once and for all
-::ij.::import java.
 ::sq::square
 ::sqs::squares
 ::sqd::squared
@@ -6838,18 +5615,12 @@
 ::pfmrs::performers
 ::mx::matrix
 ::mxs::matrices
-::mxe::matrix element
-::mxes::matrix elements
-::scmx::scatter matrix
-::scmxs::scatter matrices
 ::skt::scatter
 ::skts::scatters
 ::sktd::scattered
 ::sktg::scattering
 ::sktr::scatterer
 ::sktrs::scatterers
-::scoj::Scanner object
-::scojs::Scanner objects
 ::ppu::popular
 ::ppuy::popularly
 ::pput::popularity
@@ -6865,27 +5636,11 @@
 ::pplr::populator
 ::pplrs::populators
 ::mem::memory
-::smem::shared memory
-::memc::memory contents
-::meml::memory location
-::memls::memory locations
 ::stg::storage
-::stgd, sdvc::storage device
-::stgds, sdvcs::storage devices
-::sl::storage location
-::sls::storage locations
 ::smlr::smaller
 ::smls::smallest
 ::ssmls::second smallest
 ::tsmls::third smallest
-::d1::data[1]
-::d2::data[2]
-::d1::D1
-::d2::D2
-::p1::P1
-::p2::P2
-::q1::Q1
-::q2::Q2
 ::bcs::best-case scenario
 ::wcs::worst-case scenario
 ::iw::in which
@@ -6900,8 +5655,6 @@
 ::mplt's::monopolist's
 ::mplts::monopolists
 ::mplc::monopolistic
-::gcm::government-created monopoly
-::gcms::government-created monopolies
 ::oply::oligopoly
 ::oplys::oligopolies
 ::oplt::oligopolist
@@ -6913,8 +5666,6 @@
 ::ajt::adjacent
 ::ajy::adjacently
 ::ajc::adjacency
-::ajm, amx::adjacency matrix
-::ajms, amxs::adjacency matrices
 ::nwk::network
 ::nwks::networks
 ::nwkd::networked
@@ -7003,7 +5754,6 @@
 ::ivkns::invocations
 ::ivkr::invoker
 ::ivkrs::invokers
-::ivkl::invokeLater(...)
 ::ea::each
 ::eao::each of
 ::oea::of each
@@ -7026,20 +5776,7 @@
 ::pkgg::packaging
 ::pkgr::packager
 ::pkgrs::packagers
-::dfp::default package
-::dfps::default packages
-::castv::castValues
-::rl::runLength
-::noc::NUMBER_OF_CASTS
 ::ib::Ibid
-::brf::by reference
-::byr::by reference
-::cbv::call-by-value
-::cbr::call-by-reference
-::cdbv::called by value
-::cdbr::called by reference
-::pbv::passed by value
-::pbr::passed by reference
 ::rdd::redundant
 ::rddc::redundancy
 ::rddl::redundantly
@@ -7051,27 +5788,7 @@
 ::xcns::exceptions
 ::xcnl::exceptional
 ::xcny::exceptionally
-::xhr::exception handler
-::xhrs::exception handlers
-::xhg::exception handling
-::iae::IllegalArgumentException
-::nfe::NumberFormatException
-::fnfe::FileNotFoundException
-::rtx::RuntimeException
 ::oob::out of bounds
-::iobe::IndexOutOfBoundsException
-::aiobe::ArrayIndexOutOfBoundsException
-::iob::index-out-of-bounds
-::iobt::IndexOutOfBounds
-::iobc::index-out-of-bounds check
-::iobcs::index-out-of-bounds checks
-::ime::InputMismatchException
-::nsee::NoSuchElementException
-::npe::NullPointerException
-::iox::IOException
-::ife::InsufficientFundsException
-::bde::BadDataException
-::gmsg::getMessage()
 ::tmn::terminate
 ::tmns::terminates
 ::tmnd::terminated
@@ -7096,8 +5813,6 @@
 ::aggg::aggregating
 ::aggn::aggregation
 ::aggns::aggregations
-::adma::aggregate demand
-::aspl::aggregate supply
 ::eng::engineer
 ::engs::engineers
 ::engd::engineered
@@ -7107,17 +5822,11 @@
 ::rengd::reengineered
 ::rengg::reengineering
 ::hwr::hardware
-::heng::hardware engineering
-::hwre::hardware engineering
 ::swr::software
-::swrdm::software development
-::swrdm::software developments
-::swrdmt::Software Development
 ::swrdr::software developer
 ::swrdrs::software developers
 ::swrdrt::Software Developer
 ::swrdrst::Software Developers
-::sdi::Software Development Intern
 ::swre::software engineer
 ::seng::software engineer
 ::sengt::Software Engineer
@@ -7130,28 +5839,6 @@
 ::lcys::life cycles
 ::um::UM
 ::ume::User Manual
-::cfda::CFD
-::cfde::control flow diagram
-::cfdse::control flow diagrams
-::stta::STT
-::stte::state transition table
-::sttse::state transition tables
-::dfda::DEFAULTED
-::dfde::data flow diagram
-::dfdse::data flow diagrams
-::pdre::Preliminary Design Review
-::cdre::Critical Design Review
-::grme::graphical representation model
-::grmse::graphical representation models
-::erda::ERD
-::erde::entity relationship diagram
-::erdse::entity relationship diagrams
-::plm::preliminary
-::plmd::preliminary design
-::dtldd::detailed design
-::cnut::coding and unit testing
-::cit::CSC Integration Testing
-::cscit::CSCI Testing
 ::kok::concrete
 ::kokn::concreteness
 ::koky::concretely
@@ -7163,11 +5850,6 @@
 ::edul::educational
 ::edur::educator
 ::edurs::educators
-::eswr::educational software
-::mes::math-educational software
-::eapp::educational application
-::eapps::educational applications
-::readi::Ravani Educational Applications Development, Inc.
 ::od::other
 ::ods::others
 ::odz::other than
@@ -7192,15 +5874,8 @@
 ::cumzy::customizably
 ::cumzn::customization
 ::cumzns::customizations
-::cmkb::'Customize Keyboard'
-::cmkbd::'Customize Keyboard' dialog
-::bac::BankAccount
 ::dtp::desktop
 ::dtps::desktops
-::dta::desktop automation
-::dtat::Desktop Automation
-::datm::desktop automation
-::datmt::Desktop Automation
 ::lnk::link
 ::lnks::links
 ::lnkd::linked
@@ -7209,9 +5884,6 @@
 ::lnkjs::linkages
 ::lnkr::linker
 ::lnkrs::linkers
-::lil::LinkedList
-::li::ListIterator
-::lli::LinkedListIterator
 ::ans::answer
 ::anss::answers
 ::ansd::answered
@@ -7277,9 +5949,6 @@
 ::vers::versions
 ::verd::versioned
 ::verg::versioning
-::verc::version creation
-::voc::version of the code
-::vsoc::versions of the code
 ::sudo::pseudo
 ::sdk::pseudocode
 ::sdks::pseudocodes
@@ -7308,12 +5977,6 @@
 ::mit::moment in time
 ::mits::moments in time
 ::momtm::moment-to-moment
-::emom::Eureka{!} moment
-::emoms::Eureka{!} moments
-::eum::Eureka{!} moment
-::eums::Eureka{!} moments
-::meum::major Eureka! moment
-::meums::major Eureka! moments
 ::capz::capitalize
 ::capzs::capitalizes
 ::capzd::capitalized
@@ -7330,10 +5993,6 @@
 ::acay::academically
 ::errs::erroneous
 ::ery::erroneously
-::erh::error handling
-::ehc::error-handling code
-::elvl::'ErrorLevel'
-::erlv::'ErrorLevel'
 ::erp::error-prone
 ::rif::reinforce
 ::rifs::reinforces
@@ -7363,9 +6022,6 @@
 ::dlmg::delimiting
 ::dlmr::delimiter
 ::dlmrs::delimiters
-::cr::CashRegister
-::crs::CashRegisterSimulator
-::crt::CashRegisterTester
 ::trt::treat
 ::trts::treats
 ::trtd::treated
@@ -7427,15 +6083,6 @@
 ::ily::indirectly
 ::idirn::indirection
 ::idirns::indirections
-::idirr::indirector
-::idirrs::indirectors
-::dbli::double indirection
-::loi::level of indirection
-::lsoi::levels of indirection
-::loit::Level of Indirection
-::lsoit::Levels of Indirection
-::iop::indirection operator
-::iops::indirection operators
 ::udl::unidirectional
 ::udlt::unidirectionality
 ::udy::unidirectionally
@@ -7487,10 +6134,6 @@
 ::xtrg::extracting
 ::xtrn::extraction
 ::xtrns::extractions
-::xtrk::Extract Class
-::xtrf::Extract Function
-::xtrm::Extract Method
-::ixtrr::InformationExtractor
 ::abn::abnormal
 ::abny::abnormally
 ::aisb::as I've said before
@@ -7520,9 +6163,6 @@
 ::rptv::repetitive
 ::rptvn::repetitiveness
 ::rptvy::repetitively
-::rpsrk::repetition structure
-::rpsrks::repetition structures
-::scrn::sentinel-controlled repetition
 ::ngh::neighbor
 ::nghs::neighbors
 ::ed::edit
@@ -7534,15 +6174,6 @@
 ::edns::editions
 ::edr::editor
 ::edrs::editors
-::te::text-edit
-::tes::text-edits
-::ted::text-edited
-::teg::text-editing
-::tegt::Text Editing
-::ter::text editor
-::ters::text editors
-::tert::Text Editor
-::gpe::Group Policy Editor
 ::ilo::in light of
 ::iloe::in light of the
 ::ilotft::in light of the fact that
@@ -7657,15 +6288,6 @@
 ::gnrr::generator
 ::gnrrs::generators
 ::gnrv::generative
-::gnry::generatively
-::agnr::auto-generate
-::agnrs::auto-generates
-::agnrd::auto-generated
-::agnrg::auto-generating
-::agnrn::auto-generation
-::agnrns::auto-generations
-::agnrr::auto-generater
-::agnrrs::auto-generaters
 ::gnru::generous
 ::gnrt::generosity
 ::gnruy::generously
@@ -7675,23 +6297,6 @@
 ::prsg::parsing
 ::prsr::parser
 ::prsrs::parsers
-::prsrg::parser generator
-::prsrgs::parser generators
-::prsrr::parser rule
-::prsrrs::parser rules
-::prc::ParserRuleContext
-::prcs::ParserRuleContexts
-::prst::parse tree
-::prsts::parse trees
-::prstk::ParseTree
-::prstsk::ParseTrees
-::ptw::parse tree walk
-::ptws::parse tree walks
-::ptwr::parse tree walker
-::ptwrs::parse tree walkers
-::ptl::ParseTreeListener
-::ptv::ParseTreeVisitor
-::aptv::AbstractParseTreeVisitor
 ::sut::subtree
 ::suts::subtrees
 ::rgnr::regenerate
@@ -7717,9 +6322,6 @@
 ::isepb::inseparable
 ::isepbt::inseparability
 ::isepby::inseparably
-::soco::separation of concerns
-::socot::Separation of Concerns
-::sifi::separating interface from implementation
 ::mand::mandatory
 ::mandy::mandatorily
 ::ccm::concomitant
@@ -7751,12 +6353,6 @@
 ::acmg::accommodating
 ::acmn::accommodation
 ::acmns::accommodations
-::pfw::‘Preferred width: '
-::rsc::rapid-succession command
-::rscs::rapid-succession commands
-::nrs::non-rapid-succession
-::nrsc::non-rapid-succession command
-::nrscs::non-rapid-succession commands
 ::xrc::exercise
 ::xrcs::exercises
 ::xrcd::exercised
@@ -7764,15 +6360,9 @@
 ::xif::exercise in futility
 ::tmp::template
 ::tmps::templates
-::fnt::function template
-::fnts::function templates
 ::ltl::literal
 ::ltls::literals
 ::lty::literally
-::lsg::literal string
-::lsgs::literal strings
-::sltl::string literal
-::sltls::string literals
 ::ltlz::literalize
 ::ltlzs::literalizes
 ::ltlzd::literalized
@@ -7799,7 +6389,6 @@
 ::ihsf::inherits from
 ::ihdf::inherited from
 ::ihgf::inheriting from
-::dai::data inheritance
 ::vi::virtual
 ::viy::virtually
 ::vilz::virtualize
@@ -7810,14 +6399,6 @@
 ::vilzns::virtualizations
 ::pvz::paravirtualization
 ::miso::Microsoft
-::msdos::MS-DOS
-::mwz::Microsoft Windows
-::miw::Microsoft Windows
-::mso::Microsoft Office
-::mous::MOUS
-::mouse::Microsoft Office User Specialist
-::msw::Microsoft Word
-::msx::Microsoft Excel
 ::xl::excel
 ::xls::excels
 ::xld::excelled
@@ -7825,12 +6406,10 @@
 ::xlc::excellence
 ::xlt::excellent
 ::xly::excellently
-::msax::Microsoft Access
 ::pwp::PowerPoint
 ::pwps::PowerPoints
 ::ppsl::PowerPoint slide
 ::ppsls::PowerPoint slides
-::vzo::Visio
 ::bm::bookmark
 ::bms::bookmarks
 ::bmd::bookmarked
@@ -7839,8 +6418,6 @@
 ::bmrs::bookmarkers
 ::sgt::singleton
 ::sgts::singletons
-::dbt::doubleton
-::dbts::doubletons
 ::tog::toggle
 ::togs::toggles
 ::togd::toggled
@@ -7856,7 +6433,6 @@
 ::sugv::suggestive
 ::sugy::suggestively
 ::voila::voilà
-::xsn::ExtendSelection
 ::xi::exist
 ::xis::exists
 ::xid::existed
@@ -7867,7 +6443,6 @@
 ::xit::existent
 ::xil::existential
 ::xiy::existentially
-::xila::existential angst
 ::ey::they
 ::eir::their
 ::zs::this
@@ -7982,11 +6557,6 @@
 ::rarrr::rearranger
 ::rarrrs::rearrangers
 ::wb::Workbench
-::wbw::Workbench window
-::iwz::InputWizard
-::pr::PurchaseRinger
-::sp::SalePerformer
-::sdw::SalesDayWorker
 ::blv::believe
 ::blvs::believes
 ::blvd::believed
@@ -8019,16 +6589,11 @@
 ::djns::disjunctions
 ::djt::disjunct
 ::djts::disjuncts
-::dja::DJ
 ::rmv::remove
 ::rmvs::removes
 ::rmvd::removed
 ::rmvg::removing
 ::rmvl::removal
-::aska::askArea()
-::askv::askVolume()
-::ixi::isa/extends/inherits from
-::hac::hasa/aggregates/contains
 ::rgi::register
 ::rgis::registers
 ::rgid::registered
@@ -8039,7 +6604,6 @@
 ::rgirs::registrars
 ::rgiy::registry
 ::rgiys::registries
-::rgiye::Registry Editor
 ::vk::vector
 ::vks::vectors
 ::vkc::vector clock
@@ -8057,14 +6621,6 @@
 ::adl::addressable
 ::adb::Address Bar
 ::uadl::unaddressable
-::adgm::addressing mode
-::ram::register addressing mode
-::dam::direct addressing mode
-::riam::register indirect addressing mode
-::bta::branch target address
-::ba::branch address
-::jta::jump target address
-::ja::jump address
 ::reta::return address
 ::retas::return addresses
 ::isa::is-a
@@ -8099,23 +6655,9 @@
 ::ovrg::overriding
 ::ovrr::overrider
 ::ovrrs::overriders
-::orr::'Overrides & Remappings.ahk'
-::ond::operand
-::onds::operands
-::1o::first operand
-::fo::first operand
-::2o::second operand
 ::rou::routine
 ::rous::routines
 ::rouy::routinely
-::subr::subroutine
-::subrs::subroutines
-::saf::subroutines and functions
-::saft::Subroutines and Functions
-::saff::'%Subroutines and Functions%\'
-::safa::'Subroutines and Functions.ahk'
-::dsubr::delay subroutine
-::dsubrs::delay subroutines
 ::plmf::polymorphism
 ::plmc::polymorphic
 ::plmy::polymorphically
@@ -8137,12 +6679,6 @@
 ::cfigrs::configurers
 ::cfigt::configurability
 ::cfigy::configurably
-::cfigf::Configuration File
-::cfigfs::Configuration Files
-::cfigi::configurable item
-::cfigis::configurable items
-::xnc::settings and configurations
-::xsc::settings/configurations
 ::std::standard
 ::stds::standards
 ::stdz::standardize
@@ -8155,7 +6691,6 @@
 ::stdzrs::standardizers
 ::wm::woman
 ::unm::unmatched
-::ipu::is previously unmatched
 ::bcm::become
 ::bcms::becomes
 ::bcmd::became
@@ -8164,18 +6699,6 @@
 ::prs::pairs
 ::prd::paired
 ::prg::pairing
-::ti::timer increment
-::tis::timer increments
-::ioa::I/O
-::iod::I/O device
-::iods::I/O devices
-::fio::File I/O
-::10t3::103
-::10t-3::10-3
-::10t6::106
-::10t-6::10-6
-::10t9::109
-::10t-9::10-9
 ::gf::graph
 ::gfs::graphs
 ::gfd::graphed
@@ -8190,26 +6713,6 @@
 ::acy::acyclic
 ::hoge::homogeneous
 ::hege::heterogeneous
-::pbcd::packed BCD
-::ubcd::unpacked BCD
-::ascii::ASCII
-::logn::log n
-::nlogn::n log n
-::isort::insertion sort
-::qsort::quicksort
-::msort::mergesort
-::bsort::bubble sort
-::ssort::selection sort
-::hsort::heap sort
-::rsort::radix sort
-::ap::articulation point
-::aps::articulation points
-::flp::floating point
-::fpu::floating-point unit
-::fpus::floating-point units
-::fpua::FPU
-::fpusa::FPUs
-::ddd::Darkly Dreaming Dexter, Jeff Lindsay
 ::cmv::circumvent
 ::cmvs::circumvents
 ::cmvd::circumvented
@@ -8220,22 +6723,6 @@
 ::uptg::interrupting
 ::uptn::interruption
 ::uptns::interruptions
-::isra::ISR
-::isr::Interrupt Service Routine
-::isrsa::ISRs
-::isrs::Interrupt Service Routines
-::ivtb::interrupt vector table
-::ivta::IVT
-::irf::interrupt request flag
-::irfs::interrupt request flags
-::ish::internship
-::ishs::internships
-::cpp::C{+}{+}
-::cppsl::C{+}{+} Standard Library
-::vstu::Visual Studio
-::vcpp::Visual C{+}{+}
-::mvs::Microsoft Visual Studio
-::mvc::Microsoft Visual C{+}{+}
 ::tifg::take it for granted
 ::tsifg::takes it for granted
 ::tdifg::took it for granted
@@ -8244,17 +6731,7 @@
 ::asop::at some point
 ::lib::library
 ::libs::libraries
-::stl::standard library
 ::slib::standard library
-::stl::STL
-::stle::standard template library
-::slf::standard library function
-::slfs::standard library functions
-::lpt::loop termination
-::tlpt::test for loop termination
-::tslpt::tests for loop termination
-::tdlpt::tested for loop termination
-::tglpt::testing for loop termination
 ::dbg::debug
 ::dbgs::debugs
 ::dbgd::debugged
@@ -8264,11 +6741,6 @@
 ::dbgy::debuggably
 ::dbgr::debugger
 ::dbgrs::debuggers
-::hm::Horstmann
-::hmp::Horstmann, p. 
-::sdvn::self-documenting variable name
-::sdvns::self-documenting variable names
-::vrel::vrel
 ::itmo::in the midst of
 ::aug::augment
 ::augs::augments
@@ -8278,7 +6750,6 @@
 ::augns::augmentations
 ::augr::augmenter
 ::augrs::augmenters
-::frix::FleschReadabilityIndex
 ::ntaf::neglect to account for
 ::ntafs::neglects to account for
 ::ntafd::neglected to account for
@@ -8346,7 +6817,6 @@
 ::iscw::in stark constrast with
 ::e::the
 ::eu::THE
-::htwfaip::How To Win Friends And Influence People
 ::xln::explain
 ::xlns::explains
 ::xlnd::explained
@@ -8359,10 +6829,6 @@
 ::stks::stacks
 ::stkd::stacked
 ::stkg::stacking
-::cstk::call stack
-::cstks::call stacks
-::ottots::on the top of the stack
-::otbots::on the bottom of the stack
 ::iaz::it appears that
 ::isth::it seems that
 ::isz::it seems that
@@ -8378,12 +6844,6 @@
 ::clums::curricula
 ::xcur::extra-curricular
 ::aow::all of which
-::rfpa::RFP
-::rfp::request for proposal
-::iset::instruction set
-::isets::instruction sets
-::isaa::ISA
-::isa::instruction set architecture
 ::pwr::power
 ::pwrs::powers
 ::pwf::powerful
@@ -8428,35 +6888,12 @@
 ::hapd::happened
 ::hapg::happening
 ::ers::errors
-::erd::error dialog
-::erds::error dialogs
 ::erm::error message
 ::erms::error messages
 ::ern::erroneous
 ::eru::erroneous
 ::ery::erroneously
-::erh::error handling
-::ehc::error-handling code
-::elvl::ErrorLevel
-::erl::ErrorLevel
 ::erp::error-prone
-::cti::compile time
-::cpit::compile time
-::cte::compile-time error
-::ctes::compile-time errors
-::rti::runtime
-::rte::runtime error
-::rtes::runtime errors
-::rtil::runtime library
-::rtils::runtime libraries
-::rlti::real-time
-::rltis::real-time system
-::rltiss::real-time systems
-::ccov::code coverage
-::kba::KB
-::mba::MB
-::gba::GB
-::tba::TEXT BOX
 ::kbe::kilobyte
 ::kbse::kilobytes
 ::mbe::megabyte
@@ -8494,12 +6931,6 @@
 ::mechl::mechanical
 ::mechy::mechanically
 ::tne, tae::trial and error
-::1tm::1-to-many
-::1tmr::1-to-many relationship
-::mtom::many-to-many
-::mtmr::many-to-many relationship
-::mtmh::many-to-many-with-history
-::mtmn::many-to-many-without-history
 ::tha::thereafter
 ::tbab::to be able
 ::tbat::to be able to
@@ -8535,8 +6966,6 @@
 ::klxv::collective
 ::klxy::collectively
 ::kkk::cool, calm, and collected
-::kklxn::KeyedCollection<TKey, TItem>
-::gkld::garbage-collected
 ::gkln::garbage collection
 ::tfm::transform
 ::tfms::transforms
@@ -8555,19 +6984,6 @@
 ::enumns::enumerations
 ::enumr::enumerator
 ::enumrs::enumerators
-::ien::IEnumerable
-::ient::IEnumerable<T>
-::pk::primary key
-::pkt::Primary Key
-::pks::primary keys
-::ckey::candidate key
-::ckeys::candidate keys
-::skey::super key
-::skeys::super keys
-::gkey::surrogate key
-::gkeys::surrogate keys
-::bkey::substitute key
-::bkeys::substitute keys
 ::atc::attach
 ::atcs::attaches
 ::atcd::attached
@@ -8599,7 +7015,6 @@
 ::asbr::assembler
 ::asbrs::assemblers
 ::asby::assembly
-::asl::assembly language
 ::dasb::disassemble
 ::dasbs::disassembles
 ::dasbd::disassembled
@@ -8614,10 +7029,6 @@
 ::nu::AND
 ::bwi::bandwidth
 ::ar::Accounts Receivable
-::ars::Accounts Receivable system
-::arsa::ARS
-::awg::Acme Widgets
-::rqa::Requirements Analysis
 ::cbt::capability
 ::cbts::capabilities
 ::o::of
@@ -8631,8 +7042,6 @@
 ::enhms::enhancements
 ::enhr::enhancer
 ::enhrs::enhancers
-::aset::application-specific enhancement
-::asets::application-specific enhancements
 ::zn::than
 ::zne::than the
 ::zu::THAT
@@ -8653,10 +7062,6 @@
 ::cbds::clipboards
 ::cbdd::clipboarded
 ::cbdg::clipboarding
-::cbdr::clipboarder
-::cbdrs::clipboarders
-::cbp::clipboarded path
-::cbps::clipboarded paths
 ::bio::biology
 ::biol::biological
 ::bioy::biologically
@@ -8777,8 +7182,6 @@
 ::xorr::explorer
 ::xorrs::explorers
 ::xory::exploratory
-::xlra::'Explorer.ahk'
-::sxlr::Solution Explorer
 ::klr::clear
 ::klrs::clears
 ::klrd::cleared
@@ -8838,8 +7241,6 @@
 ::xper::expense report
 ::xpers::expense reports
 ::atxo::at the expense of
-::ljd::lossless join decomposition
-::ljda::LJD
 ::emu::emulate
 ::emus::emulates
 ::emud::emulated
@@ -8894,38 +7295,18 @@
 ::rasug::reassuring
 ::rasuc::reassurance
 ::rasucs::reassurances
-::dp::datapath
 ::mux::multiplex
 ::muxs::multiplexes
 ::muxd::multiplexed
 ::muxg::multiplexing
 ::muxr::multiplexer
 ::muxs::multiplexers
-::muxa::mux
-::smx::space-multiplex
-::smxs::space-multiplexes
-::smxd::space-multiplexed
-::smxg::space-multiplexing
-::smxr::space-multiplexer
-::smxrs::space-multiplexers
-::smsh::space-multiplexed sharing
-::tmx::time-multiplex
-::tmxs::time-multiplexes
-::tmxd::time-multiplexed
-::tmxg::time-multiplexing
-::tmxr::time-multiplexer
-::tmxrs::time-multiplexers
-::tmsh::time-multiplexed sharing
 ::shr::share
 ::shrs::shares
 ::shrd::shared
 ::shrg::sharing
 ::srex::shared resource
 ::srexs::shared resources
-::rexa::resource abstraction
-::memsh::memory sharing
-::rexsh::resource sharing
-::xrs::explicit resource sharing
 ::asr::assert
 ::asrs::asserts
 ::asrd::asserted
@@ -8941,36 +7322,16 @@
 ::fin::finite
 ::finn::finiteness
 ::finy::finitely
-::fna::finite automaton
-::fnaa::finite automata
-::fsa::finite state automata
-::dfa::DFA
-::dfas::DFAs
-::dfae::deterministic finite automata
-::dfsa::deterministic finite state automata
-::nfa::NFA
-::nfas::NFAs
-::nfsa::nondeterministic finite state automata
-::fsd::finite state diagram
-::fsds::finite state diagrams
-::fsm::finite-state machine
-::fsms::finite-state machines
 ::inf::infinite
 ::inft::infinity
 ::infy::infinitely
-::iflp::infinite loop
-::iflps::infinite loops
-::siail::stuck in an infinite loop
 ::fie::field
 ::fies::fields
 ::nti::entire
 ::ntit::entirety
 ::ntiy::entirely
-::alu::arithmetic-logic unit
-::alua::ALU
 ::ofs::offset
 ::ofss::offsets
-::sbos::16-bit offset
 ::wr::write
 ::wrs::writes
 ::wrd::wrote
@@ -8992,8 +7353,6 @@
 ::ovwn::overwritten
 ::ovwr::overwriter
 ::ovwrs::overwriters
-::pwrr::PrintWriter
-::pwrrs::PrintWriters
 ::ccl::cancel
 ::ccls::cancels
 ::ccld::cancelled
@@ -9071,21 +7430,6 @@
 ::ufs::unforeseen
 ::dvc::device
 ::dvcs::devices
-::hdvc, hwrd::hardware device
-::hdvcs, hwrds::hardware devices
-::ipd::input device
-::ipds::input devices
-::idsu::input device subsystem
-::idsus::input device subsystems
-::oud::output device
-::ouds::output devices
-::odsu::output device subsystem
-::odsus::output device subsystems
-::hrex::hardware resource
-::hrexs::hardware resources
-::dvm::Device Manager
-::bupd::backup destination
-::bupds::backup destinations
 ::ded::dedicate
 ::deds::dedicates
 ::dedd::dedicated
@@ -9155,11 +7499,6 @@
 ::cttucs::constituencies
 ::plf::platform
 ::plfs::platforms
-::hwrp::hardware platform
-::hwrps::hardware platforms
-::hplf::hardware platform
-::hplfs::hardware platforms
-::dnp::.NET platform
 ::spsd::supersede
 ::spsds::supersedes
 ::spsdd::superseded
@@ -9197,9 +7536,6 @@
 ::xsyss::expert systems
 ::ngi::engine
 ::ngis::engines
-::infe::inference engine
-::infes::inference engines
-::rb::rule base
 ::oal::overall
 ::diag::diagnose
 ::diags::diagnoses
@@ -9312,21 +7648,8 @@
 ::pdp::pipelined datapath
 ::npipd::non-pipelined
 ::cmsn::commission
-::ar::AccountsReceivable
 ::ntt::entity
 ::ntts::entities
-::eoj::entity object
-::eojs::entity objects
-::boj::boundary object
-::bojs::boundary objects
-::coj::control object
-::cojs::control objects
-::eojt::Entity Object
-::eojst::Entity Objects
-::bojt::Boundary Object
-::bojst::Boundary Objects
-::cojt::Control Object
-::cojst::Control Objects
 ::lbl::label
 ::lbls::labels
 ::lbld::labeled
@@ -9353,8 +7676,6 @@
 ::mdls::models
 ::mdld::modeled
 ::mdlg::modeling
-::tmdl::'TreeModel'
-::tmdls::'TreeModel's
 ::clab::collaborate
 ::clabs::collaborates
 ::clabd::collaborated
@@ -9387,12 +7708,6 @@
 ::rekrs::recursers
 ::rekv::recursive
 ::reky::recursively
-::rkc::recursive call
-::rkcs::recursive calls
-::rver::recursive version
-::rvers::recursive versions
-::itver::iterative version
-::itvers::iterative versions
 ::sgd::signed
 ::usgd::unsigned
 ::stur::saturate
@@ -9401,9 +7716,6 @@
 ::sturg::saturating
 ::sturn::saturation
 ::sturns::saturations
-::sadd::saturated addition
-::ssum::saturated sum
-::sprk::saturated product
 ::usturd::unsaturated
 ::rnd::render
 ::rnds::renders
@@ -9427,9 +7739,6 @@
 ::rotns::rotations
 ::rotr::rotator
 ::rotrs::rotators
-::ramt::rotate amount
-::shamt::shift amount
-::shamta::shamt
 ::pcd::proceed
 ::pcds::proceeds
 ::pcdd::proceeded
@@ -9440,14 +7749,6 @@
 ::pcdrs::proceeders
 ::pcdu::procedure
 ::pcdus::procedures
-::pcdf::procedural flow
-::anb::a and b
-::bele::byte-element
-::beles::byte-elements
-::(6332)::[63:32]
-::(310)::[31:0]
-::(70)::[7:0]
-::(30)::[3:0]
 ::bupon::based upon
 ::nlz::normalize
 ::nlzs::normalizes
@@ -9465,7 +7766,6 @@
 ::dnlzns::denormalizations
 ::dnlzr::denormalizer
 ::dnlzrs::denormalizers
-::ap::A{+}{+}
 ::xtmn::exterminate
 ::xtmns::exterminates
 ::xtmnd::exterminated
@@ -9516,14 +7816,6 @@
 ::thkg::thanking
 ::thkr::thanker
 ::thkrs::thankers
-
-:*:tyou::
-	Send Thank You{!}{Enter}-Ravi
-Return
-:*:tyoup::
-	Send Thank You{!}{Enter}-Ravi Ponamgi
-Return
-
 ::thxa::thanks again
 ::tfe::thanks for everything
 ::tyfyco::Thank you for your consideration of
@@ -9544,7 +7836,6 @@ Return
 ::tlk::top-level class
 ::tlks::top-level classes
 ::nlvl::entry-level
-::nlsd::entry-level software developer
 ::asi::assist
 ::asis::assists
 ::asid::assisted
@@ -9573,12 +7864,6 @@ Return
 ::atemd::attempted
 ::atemg::attempting
 ::iaat::in an attempt to
-::hpsh::high-percentage shot
-::hpshs::high-percentage shots
-::hrps::higher-percentage shot
-::hrpss::higher-percentage shots
-::hsps::highest-percentage shot
-::hspss::highest-percentage shots
 ::vm::virtual memory
 ::vmt::Virtual Memory
 ::phm::physical memory
@@ -9603,7 +7888,6 @@ Return
 ::filns::filtrations
 ::filr::filterer
 ::filrs::filterers
-::pffu::Part-File-Filtering Utility
 ::srx::search
 ::srxs::searches
 ::srxd::searched
@@ -9636,7 +7920,6 @@ Return
 ::tchgs::teachings
 ::tchr::teacher
 ::tchrs::teachers
-::tgwtdt::The Girl With The Dragon Tattoo
 ::cpo::component
 ::cpos::components
 ::cpow::component-wise
@@ -9746,7 +8029,6 @@ Return
 ::pmprs::prompters
 ::pmpy::promptly
 ::pmpf::prompt for
-::pfnr::prompt for and read
 ::ntr::enter
 ::ntrs::enters
 ::ntrd::entered
@@ -9771,9 +8053,6 @@ Return
 ::scrrs::screeners
 ::scsh::screenshot
 ::scshs::screenshots
-::oscr::on-screen
-::osd::on-screen display
-::osds::on-screen displays
 ::tsc::touchscreen
 ::tscs::touchscreens
 ::bsh::boardshot
@@ -9812,7 +8091,6 @@ Return
 ::xmnrs::examiners
 ::uc::use case
 ::ucs::use cases
-::tyv::The Young Victoria
 ::impk::implicate
 ::impks::implicates
 ::impkd::implicated
@@ -9823,23 +8101,11 @@ Return
 ::impkrs::implicators
 ::bik::by implication
 ::ftsoa::For the sake of argument
-::mbf::member function
-::mbfs::member functions
-::dms::data members
-::dspm::displayMessage
-::dmsg::displayMessage
-::cn::courseName
-::noc::nameOfCourse
-::scn::setCourseName
-::gcn::getCourseName
 ::ppx::perplex
 ::ppxs::perplexs
 ::ppxd::perplexed
 ::ppxg::perplexing
 ::ppxn::perplexion
-::kld::class definition
-::klifc::class's interface
-::klim::class's implementation
 ::prac::practice
 ::pracs::practices
 ::pracd::practiced
@@ -9849,11 +8115,6 @@ Return
 ::bprac::best practice
 ::bpracs::best practices
 ::bps::best practices
-::bpp::best practices of System Architecture and Software Engineering ;bpp = "best practices" phrase
-::gpp::Good Programming Practice
-::cpe::Common Programming Error
-::ept::Error-Prevention Tip
-::pfmt, ptip::Performance Tip
 ::sko::scope
 ::skos::scopes
 ::skod::scoped
@@ -9861,15 +8122,8 @@ Return
 ::gsko::global scope
 ::isko::in scope
 ::oosk::out of scope
-::skor::scope resolution
-::skoro::scope resolution operator
-::usro::unary scope resolution operator
-::bsro::binary scope resolution operator
 ::bkp::breakpoint
 ::bkps::breakpoints
-::saba::set a breakpoint at
-::ssaba::sets a breakpoint at
-::sgaba::setting a breakpoint at
 ::bka::break at
 ::bksa::breaks at
 ::bkda::broke at
@@ -9903,7 +8157,6 @@ Return
 ::ipzns::impositions
 ::ipzr::imposer
 ::ipzrs::imposers
-::fld::functional decomposition
 ::spz::suppose
 ::spzs::supposes
 ::spzd::supposed
@@ -9932,12 +8185,6 @@ Return
 ::ppzr::proposer
 ::ppzrs::proposers
 ::ppznl::propositional
-::pzlg::propositional logic
-::pzlgt::Propositional Logic
-::peq::propositional equivalence
-::peqs::propositional equivalences
-::pzf::propositional function
-::pzfs::propositional functions
 ::sst::sensitive
 ::sstt::sensitivity
 ::ssty ::sensitively
@@ -9954,17 +8201,6 @@ Return
 ::sws::switches
 ::swd::switched
 ::swg::switching
-::tsw::task-switch
-::tsws::task-switches
-::tswd::task-switched
-::tswg::task switching
-::tswgh::task-switching
-::tswgt::Task Switching
-::tswgth::Task-Switching
-::tswga::Task Switching.ahk
-::tsh::'Task-Switching' Hotkey
-::tswr::task switcher
-::tswrs::task switchers
 ::apr::appear
 ::aprs::appears
 ::aprd::appeared
@@ -9986,7 +8222,6 @@ Return
 ::raprg::reappearing
 ::raprc::reappearance
 ::raprcs::reappearances
-::ifel::if... else
 ::iiw::if it were
 ::itwtc::if that were the case
 ::myst::mystery
@@ -9997,25 +8232,8 @@ Return
 ::sil::simply
 ::llh::likelihood
 ::ftmp::for the most part
-::jms::just-made shot
-::lru::LRU
-::lrue::least recently used
-::mru::MRU
-::mrue::most recently used
-::mruo::MRU-ordered
-::mrul::MRU-ordered List
-::zor::Z-order
-::zord::Z-ordered
-::zorg::Z-ordering
-::mbz::MRU-based Z-order
-::mrus::MRU "stack"
-::mruss::MRU "stack"s
-::tbp::Taskbar Properties
-::tbv::Taskbar Viewer
 ::tlb::toolbar
 ::tlbs::toolbars
-::tbb::toolbar button
-::tbbs::toolbar buttons
 ::rle::release
 ::rles::releases
 ::rled::released
@@ -10026,9 +8244,6 @@ Return
 ::arws::arrows
 ::ark::arrow key
 ::arks::arrow keys
-::akb::arrow-key behavior
-::akm::arrow-key movement
-::akms::arrow-key movements
 ::pmi::permit
 ::pmis::permits
 ::pmid::permitted
@@ -10039,9 +8254,6 @@ Return
 ::pmins::permissions
 ::msh::makeshift
 ::stme::Start menu
-::jli::Jump List
-::apjl::All Programs Jump List
-::rijl::Recent Items Jump List
 ::strk::soundtrack
 ::udli::underline
 ::udlis::underlines
@@ -10113,12 +8325,9 @@ Return
 ::kry::correctly
 ::krne::correctness
 ::krv::corrective
-::pok::proof of correctness
 ::ikr::incorrect
 ::ikry::incorrectly
 ::ikrne::incorrectness
-::vax::VAX
-::vaxe::VisualAssistX
 ::rcp::reciprocate
 ::rcps::reciprocates
 ::rcpd::reciprocated
@@ -10177,7 +8386,6 @@ Return
 ::alng::aligning
 ::alnt::alignment
 ::alnts::alignments
-::aob::alignment of braces
 ::ndt::indent
 ::ndts::indents
 ::ndtd::indented
@@ -10198,10 +8406,6 @@ Return
 ::dbl::double
 ::dbls::doubles
 ::dbly::doubly
-::py::Python
-::pyg::Pythagorean
-::py3::Pythagorean triple
-::py3s::Pythagorean triples
 ::pyt::Pythagorean theorem
 ::hyp::hypotenuse
 ::sal::salary
@@ -10220,10 +8424,7 @@ Return
 ::pli::playlist
 ::plis::playlists
 ::moe::margin of error
-::gmoe::greater margin of error
-::lmoe::lesser margin of error
 ::mfe::margin for error
-::mmfe::more margin for error
 ::lmfe::less margin for error
 ::alw::allow
 ::alws::allows
@@ -10260,13 +8461,6 @@ Return
 ::iduns::inductions
 ::idur::inducer
 ::idurs::inducers
-::mi::mathematical induction
-::smi::strong mathematical induction
-::wmi::weak mathematical induction
-::bstep::basis step
-::istep::induction step
-::ihp::induction hypothesis
-::tpp::The Pigeonhole Principle
 ::pmu::permute
 ::pmus::permutes
 ::pmud::permuted
@@ -10281,8 +8475,6 @@ Return
 ::imfms::isomorphisms
 ::imfc::isomorphic
 ::imfy::isomorphically
-::dima::dimensional analysis
-::dasis::dimensional analysis
 ::toc::TOC
 ::toce::Table of Contents
 ::kpd, kmp::compound
@@ -10299,21 +8491,9 @@ Return
 ::tpzrs::transposers
 ::vln::violinist
 ::fsn::physician
-::fzn::physician
 ::oj::orange juice
 ::iff::if and only if
 ::iffa::iff
-::aowh::Almanac of World History
-::dmg::De Morgan's
-::dmgl::De Morgan's law
-::dmgls::De Morgan's laws
-::dlq::De Morgan's law for quantifiers
-::dlsq::De Morgan's laws for quantifiers
-::dmgr::DeMorgansLawyer
-::dmgo::dmgLawyer
-::dng::Double Negation
-::dlcd::Distributive Law of Conjunction over Disjunction
-::dldc::Distributive Law of Disjunction over Conjunction
 ::ttg::tautology
 ::rtk::restrict
 ::rtks::restricts
@@ -10362,7 +8542,6 @@ Return
 ::obkg::obscuring
 ::obkr::obscurer
 ::obkrs::obscurers
-::dam::Del Amo
 ::axp::accept
 ::axps::accepts
 ::axpd::accepted
@@ -10408,34 +8587,12 @@ Return
 ::fgeg::forgetting
 ::fgel::forgetful
 ::fgey::forgetfully
-::lbx::list box
-::lbxs::list boxes
-::cbx::combo box
-::cbxs::combo boxes
-::drd::drop-down
-::ddl::drop-down list
-::ddls::drop-down lists
-::lov::list of values
-::lovt::List of Values
-::oa>::Options > Advanced > 
 ::rsb::resemble
 ::rsbs::resembles
 ::rsbd::resembled
 ::rsbg::resembling
 ::rsbc::resemblance
 ::rsbcs::resemblances
-::ubv::upperBound
-::lbv::lowerBound
-::aep::areEquivalentPropositions
-::ciep::checkIfEquivalentPropositions()
-::pc::problemCounter
-::apc::aProblemCounter
-::spc::setProblemCounter()
-::tvc::testValuesCounter
-::gsf::goodSoFar
-::agsf::aGoodSoFar
-::wap::workAProblem()
-::tv::testValues()
 ::dno::denote
 ::dnos::denotes
 ::dnod::denoted
@@ -10446,7 +8603,6 @@ Return
 ::dnsz::denotes that
 ::dndz::denoted that
 ::dngz::denoting that
-::tsr::The Shawshank Redemption
 ::que::queue
 ::ques::queues
 ::qued::queued
@@ -10458,11 +8614,9 @@ Return
 ::ttot::the top of the
 ::atto::at the top of the
 ::attotl::at the top of the list
-::attots::at the top of the script
 ::tboot::the bottom of the
 ::atboo::at the bottom of the
 ::atbootl::at the bottom of the list
-::atboots::at the bottom of the script
 ::tbgot::the beginning of the
 ::atbgo::at the beginning of the
 ::atbgotl::at the beginning of the list
@@ -10473,8 +8627,6 @@ Return
 ::isv::in service
 ::oosv::out of service
 ::dmn::domain
-::dox::domain of x
-::doy::domain of y
 ::ab::about
 ::dlb::deliberate
 ::dlbs::deliberates
@@ -10491,8 +8643,6 @@ Return
 ::vcumrs::vacuumers
 ::vcus::vacuous
 ::vcuy::vacuously
-::vact::vacuously true
-::uij::unlike in Java
 ::hpg::homepage
 ::hpgs::homepages
 ::wbp::webpage
@@ -10513,7 +8663,6 @@ Return
 ::svst::serves to
 ::svdt::served to
 ::svgt::serving to
-::tutbu::That Used To Be Us
 ::dfic::deficiency
 ::dfics::deficiencies
 ::dfit::deficient
@@ -10525,9 +8674,6 @@ Return
 ::ifrg::inferring
 ::ifrc::inference
 ::ifrcs::inferences
-::rofi::rule of inference
-::rsofi::rules of inference
-::rofis::rules of inference
 ::flc::fallacy
 ::flcs::fallacies
 ::clc::complicate
@@ -10591,13 +8737,7 @@ Return
 ::blvda::blvd.
 ::blvdt::boulevard
 ::mots::moral of the story
-::motsa::MOTS
 ::unl::unless
-::momb::monkey off my back
-::stmn::Santa Monica
-::smpn::Santa Monica Promenade
-::mdr::Marina Del Rey
-::chev::Cheviot
 ::egj::engage
 ::egjs::engages
 ::egjd::engaged
@@ -10638,7 +8778,6 @@ Return
 ::xofs, ctros::counter-offers
 ::Csiu::Celsius
 ::Fahr::Fahrenheit
-::setp::setprecision
 ::osx::outsource
 ::osxs::outsources
 ::osxd::outsourced
@@ -10650,10 +8789,6 @@ Return
 ::cdd::candidate
 ::cdds::candidates
 ::cddc::candidacy
-::noo::number of occurrences
-::sps::sample space
-::pofa::P(A)
-::pofai::P(Ai)
 ::xpm::experiment
 ::xpms::experiments
 ::xpmd::experimented
@@ -10665,25 +8800,12 @@ Return
 ::xpmrs::experimenters
 ::dofc, dkoc::deck of cards
 ::addm::A.D.D. moment
-::byt::Bayes' Theorem
-::byn::Bayesian
-::bbn::BBN
-::bbne::Bayesian Belief Network
-::bbnes::Bayesian Belief Networks
-::gsn::Gaussian
 ::pvl::privilege
 ::pvls::privileges
 ::pvld::privileged
-::polp::principle of least privilege
-::pvli::privileged instruction
-::pvlis::privileged instructions
 ::ioo::in order of
-::wfat::WordFromAText
-::wn::WordFromAText
 ::awi::associated with
 ::af::after
-::gfq::getFrequency
-::sfq::setFrequency 
 ::rlb::reliable
 ::rlbt::reliability
 ::rlby::reliably
@@ -10696,8 +8818,6 @@ Return
 ::bzg::browsing
 ::bzr::browser
 ::bzrs::browsers
-::bzb::Browser_Back
-::bzf::Browser_Forward
 ::wbz::Web browser
 ::wbzs::Web browsers
 ::dnc::divide-and-conquer
@@ -10720,41 +8840,17 @@ Return
 ::rns::random numbers
 ::rvb::random variable
 ::rvbs::random variables
-::rngnr::random number generator
-::rngnrs::random number generators
-::rngnn::random number generation
 ::pd::probability distribution
-::dkpd::discrete probability distribution
-::ctpd::continuous probability distribution
-::pfn::probability function
-::pmf::probability mass function
-::pmfs::probability mass functions
-::pmft::Probability Mass Function
-::pmfa::pmf
 ::cumv::cumulative
 ::cumy::cumulatively
-::cdf::cumulative distribution function
-::cdfs::cumulative distribution functions
-::cdft::Cumulative Distribution Function
-::cdfa::cdf
 ::jd::joint distribution
 ::jds::joint distributions
 ::jdst::Joint Distributions
-::ddb::discrete distribution
-::bdb::binomial distribution
-::pdb::Poisson distribution
 ::ufo::uniform
 ::ufos::uniforms
 ::ufol::uniformly
 ::ufot::uniformity
 ::ufots::uniformities
-::udb::uniform distribution
-::gdb::Gaussian distribution
-::gdd::Gaussian distributed
-::nmd::normal distribution
-::ndb::normal distribution
-::ndd::normally distributed
-::edb::exponential distribution
 ::vy::vary
 ::vrs::varies
 ::vrd::varied
@@ -10773,9 +8869,6 @@ Return
 ::cvans::covariations
 ::cvac::covariance
 ::cvacs::covariances
-::cvm::covariance matrix
-::cvms::covariance matrices
-::scm::sample covariance matrix
 ::crl::correlate
 ::crls::correlates
 ::crld::correlated
@@ -10804,7 +8897,6 @@ Return
 ::asyc::asymptotic
 ::asycs::asymptotics
 ::asyy::asymptotically
-::log*::log*
 ::dln::delineate
 ::dlns::delineates
 ::dlnd::delineated
@@ -10831,10 +8923,6 @@ Return
 ::ectg::encountering
 ::bday::birthday
 ::bdays::birthdays
-::ht::hash table
-::hts::hash tables
-::mik::microkernel
-::mkd::microkernel design
 ::2p::couple
 ::2ps::couples
 ::2pd::coupled
@@ -10848,7 +8936,6 @@ Return
 ::d2pg::decoupling
 ::d2pr::decoupler
 ::d2prs::decouplers
-::mpf::message passing facility
 ::fct::facility
 ::fcts::facilities
 ::mat::material
@@ -10948,8 +9035,6 @@ Return
 ::udmg::undermining
 ::udmr::underminer
 ::udmrs::underminers
-::bnt::Bernoulli trial
-::bnts::Bernoulli trials
 ::arv::arrive
 ::arvs::arrives
 ::arvd::arrived
@@ -10968,13 +9053,6 @@ Return
 ::bspg::bootstrapping
 ::bspr::bootstrapper
 ::bsprs::bootstrappers
-::rc::race condition
-::rcs::race conditions
-::msgq::message queue
-::msgqs::message queues
-::erl::Erlang
-::clo::Clojure
-::clol::clojure
 ::mdu::module
 ::mdus::modules
 ::mdur::modular
@@ -10988,17 +9066,13 @@ Return
 ::mdzns::modularizations
 ::mdzr::modularizer
 ::mdzrs::modularizers
-::sysd::System Documentation
 ::rm::Reference Manual
-::lili::linked list
-::lilis::linked lists
 ::le::length
 ::les::lengths
 ::ler::lengthier
 ::ley::lengthy
 ::wif::width
 ::hei::height
-::bwk::boardwork
 ::alv::alleviate
 ::alvs::alleviates
 ::alvd::alleviated
@@ -11025,13 +9099,6 @@ Return
 ::mxny::machinery
 ::tmxn::Turing machine
 ::tmxns::Turing machines
-::vm::VM
-::vms::VMs
-::vme::virtual machine
-::vmse::virtual machines
-::vmm::virtual machine monitor
-::vmms::virtual machine monitors
-::xsh::explicit sharing
 ::elp::elapse
 ::elps::elapses
 ::elpd::elapsed
@@ -11076,21 +9143,12 @@ Return
 ::dzpt::Design Pattern
 ::dzpst::Design Patterns
 ::dst::density
-::msfn::mass function
-::dstf::density function
 ::ipl::imply
 ::ipls::implies
 ::ipld::implied
 ::iplg::implying
 ::ipln::implication
 ::iplns::implications
-::ipla::⇒
-::muex::μx
-::muwy::μy
-::sigmax::σx
-::sigmax2::σx2
-::sigmay::σy
-::sigmay2::σy2
 ::rdk::ridiculous
 ::rdky::ridiculously
 ::cdb::credible
@@ -11130,8 +9188,6 @@ Return
 ::pempy::preemptively
 ::npev::nonpreemptive
 ::npey::nonpreemptively
-::clt::Central Limit Theorem
-::mgf::Moment Generating Function
 ::fov::field of view
 ::xcf::except for
 ::annm::anonymous
@@ -11141,10 +9197,6 @@ Return
 ::unnml::unanimously
 ::unnmy::unanimously
 ::unnmt::unanimity
-::ug::undirected graph
-::elr::edge-list representation
-::mst::minimum spanning tree
-::msta::MST
 ::odr::order
 ::odrs::orders
 ::odrd::ordered
@@ -11159,34 +9211,17 @@ Return
 ::yieg::yielding
 ::yier::yielder
 ::yiers::yielders
-::mkc::Markov chain
-::mkcs::Markov chains
-::mm::MM
-::mkm::Markov model
-::mkms::Markov models
-::hmm::HMM
-::hmms::HMMs
-::hmme::Hidden Markov Model
-::hmmse::Hidden Markov Models
-::cvf::curve fitting
-::tse::Taylor series expansion
-::tses::Taylor series expansions
 ::fmu::formula
 ::fmus::formulas
 ::fmue::formulae
 ::pepl::people
 ::xth::except that
-::lze::lazy evaluation
-::stm::state transition matrix
 ::pzst::present state
 ::nxst::next state
-::rsm::regular stochastic matrix
-::rsms::regular stochastic matrices
 ::cpct::capacity
 ::cpcts::capacities
 ::kps::knapsack
 ::kpss::knapsacks
-::wii::wi
 ::atx::attract
 ::atxs::attracts
 ::atxd::attracted
@@ -11220,9 +9255,6 @@ Return
 ::skxd::scratched
 ::skxg::scratching
 ::fsk::from scratch
-::cp::catcher program
-::cps::catcher programs
-::bp::banner program
 ::anc::announce
 ::ancs::announces
 ::ancd::announced
@@ -11244,10 +9276,6 @@ Return
 ::thdg::threading
 ::thdr::threader
 ::thdrs::threaders
-::edt::event dispatching thread
-::edts::event dispatching threads
-::edtt::Event Dispatching Thread
-::edtst::Event Dispatching Threads
 ::aj::agent
 ::ajs::agents
 ::ape::append
@@ -11293,45 +9321,11 @@ Return
 ::diams::diameters
 ::diamy::diametrically
 ::dmo::diametrically opposed
-::fib::Fibonacci
-::fibn::Fibonacci number
-::fibns::Fibonacci numbers
-::fibq::Fibonacci sequence
-::fibs::Fibonacci series
 ::tm::term
 ::tms::terms
 ::tmd::termed
 ::tmg::terming
 ::xmas::Christmas
-::wwl::Winter Wonderland
-::svb::Silver Bells
-::jbr::Jingle Bell Rock
-::lis::Let It Snow!
-::tldb::The Little Drummer Boy
-::fln::Feliz Navidad
-::awhhoh::Angels We Have Heard On High
-::aiam::Away in a Manger
-::cotb::Carol of the Bells
-::croaof::Chestnuts Roasting On An Open Fire
-::dthwboh::Deck The Hall With Boughs Of Holly
-::dyhwih::Do You Hear What I Hear?
-::tfn::The First Noël
-::fts::Frosty the Snowman
-::gkw::Good King Wenceslas
-::hyamlc::Have Yourself a Merry Little Christmas
-::hjc::Holly Jolly Christmas
-::jtw::Joy to the World
-::ocayf::O Come All Ye Faithful
-::ohn::O Holy Night
-::oltob::O Little Town Of Bethlehem
-::ot::to
-::ratct::Rockin' Around the Christmas Tree
-::rrr::Rudolph, The Red-Nosed Reindeer
-::scictt::Santa Claus Is Coming to Town
-::sini::Silent Night
-::sr::Sleigh Ride
-::tfn::The First Noël
-::wc::White Christmas
 ::ncl::enclose
 ::ncls::encloses
 ::ncld::enclosed
@@ -11340,7 +9334,6 @@ Return
 ::nclus::enclosures
 ::nclr::encloser
 ::nclrs::enclosers
-::toh::Towers of Hanoi
 ::tiawt::there is a way to
 ::itawt::Is there a way to
 ::lea::league
@@ -11555,36 +9548,15 @@ Return
 ::tus::status
 ::tusb::Status Bar
 ::squo::status quo
-::pahk::.ahk
-::ahkf::.ahk file
-::ahkfs::.ahk files
-::ahku::AHK					;10/13/14: When I type out a .ahk filename, the ahk expands here but not in Word, hence the special abbreviation 'ahku' here.
-::ahke::AutoHotkey
-::ahki::AHK_Inliner
-::ahkp::AHK_Parser
-::aip::AHKScript_Inlining Project
-::hk::hotkey
-::hks::hotkeys
-::hos::hotstring
-::hoss::hotstrings
-::hu::Hotstuff
-::txf::.txt file
-::txfs::.txt files
-::tef::text file
-::tefs::text files
 ::tut::tutor
 ::tuts::tutors
 ::tutd::tutored
 ::tutg::tutoring
 ::tutl::tutorial
 ::tutls::tutorials
-::ahkt::AutoHotkey tutorial
-::hbk::Hyperbook
-::hbks::Hyperbooks
 ::pfic::proficiency
 ::pfit::proficient
 ::pfiy::proficiently
-::yir::Youth In Revolt
 ::shd::shadow
 ::shds::shadows
 ::shdd::shadowed
@@ -11616,21 +9588,14 @@ Return
 ::rmpgs::remappings
 ::rmpr::remapper
 ::rmprs::remappers
-::krm::key remapping
-::mcf::msconfig
-::xmbc::X-Mouse Button Control
-::mmb::middle mouse button
 ::sbsc::subscript
 ::spsc::superscript
-::fca::Forward Cycle Apps
-::rca::Reverse Cycle Apps
 ::byp::bypass
 ::byps::bypasses
 ::bypd::bypassed
 ::bypg::bypassing
 ::bypr::bypasser
 ::byprs::bypassers
-::ktw::KeyTweak
 ::ergo::ergonomic
 ::ergos::ergonomics
 ::ergoy::ergonomically
@@ -11641,11 +9606,6 @@ Return
 ::rchg::reaching
 ::rchr::reacher
 ::rchrs::reachers
-::ftym::FileTypesMan
-::mbt::MButton
-::mmt::momentum
-::bnr::Bullets and Numbering
-::bnrg::Bullets and Numbering Gallery
 ::vnc::vernacular
 ::dpl::displace
 ::dpls::displaces
@@ -11666,7 +9626,6 @@ Return
 ::focrs::focusers
 ::focp::focal point
 ::focps::focal points
-::tliyl::This Land Is Your Land
 ::fam::family
 ::fams::families
 ::faml::familial
@@ -11703,9 +9662,6 @@ Return
 ::amln::amelioration
 ::amlns::ameliorations
 ::amlv::ameliorative
-::eof::EOF
-::eofe::end of the file
-::eos::end of the script
 ::ggl::Google
 ::ggls::Googles
 ::ggld::Googled
@@ -11723,15 +9679,6 @@ Return
 ::laug::launching
 ::laur::launcher
 ::laurs::launchers
-::lauf::Launch_f(...)
-::lph::Launcher prefix Hotkey
-::lphs::Launcher prefix Hotkeys
-::RAlt::'RAlt'
-::raba::'RAlt'-based
-::rph::'RAlt' prefix Hotkey
-::rtph::'RAlt'-based task-switching prefix Hotkey
-::rah::'RAlt'-based Application-Launching Hotkey
-::itout::it turns out
 ::fol::folder
 ::fols::folders
 ::shf::shared folder
@@ -11761,8 +9708,6 @@ Return
 ::sptg::scripting
 ::sptr::scripter
 ::sptrs::scripters
-::sptl::scripting language
-::sptls::scripting languages
 ::tspt::test script
 ::tspts::test scripts
 ::ts::Test Script
@@ -11781,10 +9726,6 @@ Return
 ::tgtrs::targeters
 ::tgtl::target language
 ::tgtls::target languages
-::clra::CLR
-::nb::N.B.
-::nbe::Nota Bene:
-::nmb::Nota Molto Bene{!}{!}{!}:
 ::sere::serendipity
 ::sereu::serendipitous
 ::serey::serendipitously
@@ -11798,16 +9739,10 @@ Return
 ::cflgw::conflicting with
 ::cflb::conflict between
 ::tcb::the conflict between
-::acbt::accent/backtick (`)
 ::fcfs::first-come-first-served
 ::tmdu::tremendous
 ::tmdy::tremendously
 ::ttiasf::To take it a step further
-:o:csh::{^}{+}
-:o:ash::{!}{+}
-:o:calt::{^}{!}
-:o:cash::{^}{!}{+}
-::fnp::Files (non-program)
 ::olk::outlook
 ::olks::outlooks
 ::bzn::business
@@ -11827,20 +9762,11 @@ Return
 ::dapvd::disapproved
 ::dapvg::disapproving
 ::dapvl::disapproval
-::ivalnnd::invalidation and disapproval
 ::avd::avoid
 ::avds::avoids
 ::avdd::avoided
 ::avdg::avoiding
 ::avdc::avoidance
-::dla::deadlock avoidance
-::dlp::deadlock prevention
-::c3::C{#}
-::ff::FlipForward
-::frv::FlipReverse
-::fzf::Freeze Flip
-::fff::Freeze FlipForward
-::ffr::Freeze FlipReverse
 ::dlg::delegate
 ::dlgs::delegates
 ::dlgd::delegated
@@ -11866,7 +9792,6 @@ Return
 ::atikns::articulations
 ::atikr::articulator
 ::atikrs::articulators
-::dyr::Do You Remember
 ::dyrl::do you remember
 ::odyr::Ooh, do you remember?
 ::rpr::report
@@ -11877,16 +9802,6 @@ Return
 ::rprrs::reporters
 ::srpr::status report
 ::srprs::status reports
-::wsr::Weekly Status Report
-::wsrs::Weekly Status Reports
-::wsra::WSR
-::wsrsa::WSRs
-::bp::blip
-::bps::blips
-::bpd::blipped
-::bpg::blipping
-::bpr::blipper
-::bprs::blippers
 ::rnm::rename
 ::rnms::renames
 ::rnmd::renamed
@@ -11994,10 +9909,6 @@ Return
 ::scal::scalable
 ::scay::scalably
 ::scat::scalability
-::smp::scalable multiprocessor
-::smps::scalable multiprocessors
-::numa::non-uniform memory access
-::numat::non-uniform memory access time
 ::apch::approach
 ::apchs::approaches
 ::apchd::approached
@@ -12011,8 +9922,6 @@ Return
 ::pdcs::predecessors
 ::pcol::protocol
 ::pcols::protocols
-::dsys::distributed system
-::dsyss::distributed systems
 ::gy::globally
 ::gbz::globalize
 ::gbzs::globalizes
@@ -12025,9 +9934,6 @@ Return
 ::cmx::commercial
 ::cmxs::commercials
 ::cmxy::commercially
-::pgp::page placement
-::pgm::page migration
-::dpm::dynamic page migration
 ::rlk::replicate
 ::rlks::replicates
 ::rlkd::replicated
@@ -12038,15 +9944,7 @@ Return
 ::rlkrs::replicators
 ::ppr::proper
 ::ppy::properly
-::wsvc::Western Service
 ::ts::timestamp
-::csa::CS
-::cse::critical section
-::vpi::VPi
-::tpi::tPi
-::tmv::tm
-::ktb::Kleine Taschenlampe Brenn
-::etml::Es Tut Mir Leid
 ::ocp::occupy
 ::ocps::occupies
 ::ocpd::occupied
@@ -12059,18 +9957,6 @@ Return
 ::ocprs::occupiers
 ::cli::client
 ::clis::clients
-::clic::client code
-::clisv::client-server
-::clsi::client-side
-::clsic::client-side customization
-::clsics::client-side customizations
-::svsi::server-side
-::svsic::server-side customization
-::svsics::server-side customizations
-::aksp::Active Server Page
-::aksps::Active Server Pages
-::aspa::ASP
-::aspdn::ASP.NET
 ::cpb::capable
 ::cpbt::capability
 ::cpbts::capabilities
@@ -12090,8 +9976,6 @@ Return
 ::icptby::incompatibly
 ::icptbt::incompatibility
 ::icptbts::incompatibilities
-::spntr::Sixpence None The Richer
-::tmba::Take My Breath Away
 ::i::I
 ::ial::I'll
 ::id::I'd
@@ -12148,16 +10032,10 @@ Return
 ::hwt::heavyweight
 ::lwt::lightweight
 ::andr::Android
-::sql::SQL
 ::qr::query
 ::qrs::queries
 ::qrd::queried
 ::qrg::querying
-::linq::LINQ
-::ltoj::LINQ to Objects
-::lts::LINQ to SQL
-::dsx::data source
-::dsxs::data sources
 ::nm::normal
 ::nmy::normally
 ::xml::XML
@@ -12185,11 +10063,6 @@ Return
 ::lclt::locality
 ::lclts::localities
 ::lcly::locally
-::slclt::spatial locality
-::tlclt::temporal locality
-::lrfc::locality of reference
-::tlorf::spatial locality of reference
-::slorf::temporal locality of reference
 ::lz::localize
 ::lzs::localizes
 ::lzd::localized
@@ -12198,8 +10071,6 @@ Return
 ::lzns::localizations
 ::lzr::localizer
 ::lzrs::localizers
-::voip::VoIP
-::voips::VoIP service
 ::wifi::Wi-Fi
 ::elj::eligible
 ::eljt::eligibility
@@ -12231,32 +10102,19 @@ Return
 ::rng::running
 ::rngt::running time
 ::rngts::running times
-::ruaa::RunAsAdministrator
-::ruau::RunAsUser
 ::icm::incoming
 ::ogi::outgoing
-::pca::problemCounter
 ::usb::USB
-::fbu::framebuffer
-::fbus::framebuffers
 ::gps::GPS
-::pid::process ID
-::pids::process IDs
-::pida::PID
-::pidsa::PIDs
 ::dv::drive
 ::dvs::drives
 ::dvp::drove
 ::dvg::driving
 ::dvr::driver
 ::dvrs::drivers
-::dvd::device driver
-::dvds::device drivers
 ::dvl::driver's license
 ::dvls::driver's licenses
 ::dvda::DVD
-::vdv::virtual device
-::vdvs::virtual devices
 ::wp::wrap
 ::wps::wraps
 ::wpd::wrapped
@@ -12307,8 +10165,6 @@ Return
 ::ovsts::oversights
 ::ovsr::overseer
 ::ovsrs::overseers
-::ipc::IPC
-::ipce::interprocess communication
 ::roy::read-only
 ::vsn::vision
 ::vsns::visions
@@ -12353,18 +10209,12 @@ Return
 ::ianm::inanimate
 ::iaoj::inanimate object
 ::iaojs::inanimate objects
-::api::API
-::apis::APIs
-::mfb::mux_fb
 ::xlj::challenge
 ::xljs::challenges
 ::xljd::challenged
 ::xljg::challenging
 ::xljr::challenger
 ::xljrs::challengers
-::pwm::power management
-::pwmi::power management interface
-::pwmis::power management interfaces
 ::susp::suspend
 ::susps::suspends
 ::suspd::suspended
@@ -12413,8 +10263,6 @@ Return
 ::univ::universe
 ::imj::image
 ::imjs::images
-::dll::DLL
-::dlls::DLLs
 ::sxr::sector
 ::sxrs::sectors
 ::sxrd::sectored
@@ -12430,13 +10278,6 @@ Return
 ::psirs::persisters
 ::tzi::transient
 ::tziy::transiently
-::pstd::persistent data
-::pds::persistent data storage
-::poj::persistent object
-::pojs::persistent objects
-::tzid::transient data
-::toj::transient object
-::tojs::transient objects
 ::agx::aggress
 ::agxs::aggresses
 ::agxd::aggressed
@@ -12461,18 +10302,6 @@ Return
 ::rgxg::regressing
 ::rgxn::regression
 ::rgxns::regressions
-::rgxr::regressor
-::rgxrs::regressors
-::rtest::regression test
-::rtests::regression tests
-::rtestd::regression tested
-::rtestg::regression testing
-::rtestr::regression tester
-::rtestrs::regression testers
-::ratb::reference attribute
-::ratbs::reference attributes
-::tatb::tag attribute
-::tatbs::tag attributes
 ::bl::baseline
 ::bls::baselines
 ::plh::placeholder
@@ -12486,7 +10315,6 @@ Return
 ::spkns::suspicions
 ::spkr::suspector
 ::spkrs::suspectors
-::vb::VB
 ::syl::style
 ::syls::styles
 ::syld::styled
@@ -12508,9 +10336,6 @@ Return
 ::lsyl::lifestyle
 ::lsyls::lifestyles
 ::smz::schmooze
-::opc::Open C
-::ocpp::Open C{+}{+}
-::opj::Open Java
 ::osl::obsolete
 ::osls::obsoletes
 ::osld::obsoleted
@@ -12557,12 +10382,8 @@ Return
 ::sty::subtype
 ::stys::subtypes
 ::eio::even if only
-::cau::Schildt [C author]
-::ppa::pp.
 ::wiz::wizard
 ::wizs::wizards
-::[accents]::[Distributed across various prefix keystroke tables.]
-::mibu::Michael Bublé
 ::grp::group
 ::grps::groups
 ::grpd::grouped
@@ -12581,31 +10402,17 @@ Return
 ::jnc::journalistic
 ::jnci::journalistic integrity
 ::jny::journalistically
-::lgf::Log File
-::ntn::null-terminated
-::pbsg::pointer-based string
-::pbsgs::pointer-based strings
-::ntpbs::null-terminated pointer-based string
-::ntpbss::null-terminated pointer-based strings
 ::fmr::former
 ::fml::formerly
 ::fka::formerly known as
 ::lat::latter
 ::tbx::text box
 ::tbxs::text boxes
-::hdc::hard code
-::hdcs::hard codes
-::hdcd::hard coded
-::hdcg::hard coding
-::culb::curly brace
-::culbs::curly braces
 ::pru::prudent
 ::pruy::prudently
 ::mlu::modulus
 ::mli::moduli
 ::mlo::modulo
-::vba::VBA
-::vbae::Visual Basic for Applications
 ::pv::prove
 ::pvs::proves
 ::pvd::proved
@@ -12655,7 +10462,6 @@ Return
 ::fbk::feedback
 ::pfbk::position feedback
 ::nfbk::negative feedback
-::5a::5-axis
 ::ctu::capture
 ::ctus::captures
 ::ctud::captured
@@ -12681,9 +10487,6 @@ Return
 ::tplgs::topologies
 ::tplgl::topological
 ::tplgy::topologically
-::oto::one-to-one
-::1t1::1-to-1
-::rt::right
 ::rnow::right now
 ::ort::outright
 ::rts::rights
@@ -12714,8 +10517,6 @@ Return
 ::tdfg, tofg::took for granted
 ::tgfg::taking for granted
 ::tnfg::taken for granted
-::drgn, dkvr::declarative region
-::drgns, dkvrs::declarative regions
 ::rgn::region
 ::rgns::regions
 ::clid::collide
@@ -12754,7 +10555,6 @@ Return
 ::aspns::aspirations
 ::aspr::aspirer
 ::asprs::aspirers
-::sfity::Salmon Fishing in the Yemen
 ::elu::elucidate
 ::elus::elucidates
 ::elud::elucidated
@@ -12856,10 +10656,6 @@ Return
 ::pkmns::proclamations
 ::pkmr::proclaimer
 ::pkmrs::proclaimers
-::hwd::Hollywood
-::hwb::Hollywood Bowl
-::hwp::Hollywood Palladium
-::bgcc::Bill Graham Civic Center (San Francisco, CA)
 ::cmf::comfort
 ::cmfs::comforts
 ::cmfd::comforted
@@ -12906,8 +10702,6 @@ Return
 ::dfem::defense mechanism
 ::dfems::defense mechanisms
 ::bzt::Baked Ziti
-::lvu::lvalue
-::rvu::rvalue
 ::lsn::listen
 ::lsns::listens
 ::lsnd::listened
@@ -12931,30 +10725,14 @@ Return
 ::srobt::Scroll Bar
 ::srobst::Scroll Bars
 ::dos::DOS
-::cdfl::code flow
-::crfl::control flow
-::cbk::code block
-::cbks::code blocks
-::boc::block of code
-::bsoc::blocks of code
 ::auvi::audio/video
 ::kab::know about
 ::ksab::knows about
 ::keab::knew about
 ::knab::known about
 ::kgab::knowing about
-::uml::UML
-::umld::UML diagram
-::umlds::UML diagrams
-::umlc::UML class diagram
-::umlcs::UML class diagrams
-::umlk::UML class diagram
-::umlks::UML class diagrams
 ::fnm::filename
 ::fnms::filenames
-::dmdl::data model
-::dmdls::data models
-::vst::void *
 ::ispo::in the spirit of
 ::wch::watch
 ::wchs::watches
@@ -12977,16 +10755,10 @@ Return
 ::ntp::entropy
 ::notu::entropy of the universe
 ::roe::reversal of entropy
-::24hf::24-Hour Fitness
 ::alb::albeit
 ::vom::voicemail
 ::voms::voicemails
-::tsom::The Sound of Music
 ::ifo::in front of
-::itls::IntelliSense
-::itlss::IntelliSenses
-::itlsd::IntelliSensed
-::itlsg::IntelliSensing
 ::isp::inspire
 ::isps::inspires
 ::ispd::inspired
@@ -13031,8 +10803,6 @@ Return
 ::ssf::stand for
 ::sdf::stood for
 ::sgf::standing for
-::dfgr::Del Frisco's Grille
-::rdo::Rani Dodda
 ::rd::read
 ::rds::reads
 ::rdg::reading
@@ -13040,18 +10810,6 @@ Return
 ::rdt::readability
 ::rdr::reader
 ::rdrs::readers
-::sttd::step through in the debugger
-::ssttd::steps through in the debugger
-::sdttd::stepped through in the debugger
-::sgttd::stepping through in the debugger
-::sov::StepOver
-::sovs::StepOver-s
-::sovd::StepOver-ed
-::sovg::StepOver-ing
-::sinto::StepInto-
-::sintos::StepInto-s
-::sintod::StepInto-ed
-::sintog::StepInto-ing
 ::sgth::strengthen
 ::sgths::strengthens
 ::sgthd::strengthened
@@ -13103,13 +10861,6 @@ Return
 ::lvgrs::leveragers
 ::bts::behind-the-scenes
 ::sfg::safeguard
-::ivp::index-value pair
-::ivps::index-value pairs
-::kvp::key-value pair
-::kvps::key-value pairs
-::vla::VLA
-::vlae::variable-length array
-::vlase::variable-length arrays
 ::hc::How come
 ::ance::ancestor
 ::ances::ancestors
@@ -13213,10 +10964,6 @@ Return
 ::trvls::traversals
 ::trvr::traverser
 ::trvrs::traversers
-::ttv::tree traversal
-::ltv::list traversal
-::tsrk::tree structure
-::tsrks::tree structures
 ::oux::obstruct
 ::ouxs::obstructs
 ::ouxd::obstructed
@@ -13291,14 +11038,8 @@ Return
 ::breg::breathing
 ::brer::breather
 ::brers::breathers
-::csulb::CSULB
-::csulbe::California State University, Long Beach
-::nymc::NYMC
-::nymce::New York Medical College
-::vhl::Valhalla
 ::penn::University of Pennsylvania
 ::fila::Philadelphia
-::sas::South Asian Studies
 ::jl::jealous
 ::jls::jealousy
 ::jll, jly::jealously
@@ -13354,8 +11095,6 @@ Return
 ::uau::until and unless
 ::dedl::deadline
 ::dedls::deadlines
-::siva::Silicon Valley
-::tac::ToolsAutocorrect
 ::fev::forever
 ::frv::forever
 ::naf::now and forever
@@ -13379,8 +11118,6 @@ Return
 ::crpl::cryptographically
 ::crpa::cryptanalytic
 ::crpal::cryptanalytically
-::crps::cryptosystem
-::crpss::cryptosystems
 ::ncr::encrypt
 ::ncrs::encrypts
 ::ncrd::encrypted
@@ -13390,8 +11127,6 @@ Return
 ::ncrr::encrypter
 ::ncrrs::encrypters
 ::nca::encryption algorithm
-::sncrp::symmetric encryption
-::ancrp::asymmetric encryption
 ::dcrp::decrypt
 ::dcrps::decrypts
 ::dcrpd::decrypted
@@ -13458,9 +11193,6 @@ Return
 ::xcins::excitations
 ::xcir::exciter
 ::xcirs::exciters
-::nton::n-ton
-::ntons::n-tons
-::1om::1 or more
 ::oom::one or more
 ::tdm::tandem
 ::tdl, tdy::tandemly
@@ -13502,7 +11234,6 @@ Return
 ::upgg::upgrading
 ::upgr::upgrader
 ::upgrs::upgraders
-::roi::ROI
 ::rvi::revise
 ::rvis::revises
 ::rvid::revised
@@ -13511,9 +11242,6 @@ Return
 ::rvins::revisions
 ::rvir::reviser
 ::rvirs::revisers
-::rvh::revision history
-::rhd::'revision history.docx'
-::rvhs::revision histories
 ::nfo::enforce
 ::nfos::enforces
 ::nfod::enforced
@@ -13526,13 +11254,8 @@ Return
 ::pess::pieces
 ::pesd::pieced
 ::pesg::piecing
-::poc::piece of code
-::psoc::pieces of code
 ::lgc::legacy
-::lgcc::legacy code
-::lcc::legacy C code
 ::utd::up-to-date
-::mae::matter and energy
 ::rig::rigorous
 ::rigy::rigorously
 ::uph::uphold
@@ -13544,9 +11267,6 @@ Return
 ::taod::time at our disposal
 ::atou::at the outset
 ::mwh::meanwhile
-::cecs::CECS
-::lfw::Last Found Window
-::lfwa::LFW
 ::oach::overarching
 ::nli::enlighten
 ::nlis::enlightens
@@ -13556,8 +11276,6 @@ Return
 ::nlims::enlightenments
 ::nlir::enlightener
 ::nlirs::enlighteners
-::spgc::spaghetti code
-::mgl::Murgolo
 ::waw::with and without
 ::reu::reuse
 ::reus::reuses
@@ -13572,8 +11290,6 @@ Return
 ::fxb::flexible
 ::fxbt::flexibility
 ::fxby::flexibly
-::wcf::Windows-customization framework
-::jas::jlik and sfed
 ::cpiz::comprise
 ::cpizs::comprises
 ::cpizd::comprised
@@ -13588,7 +11304,6 @@ Return
 ::dtrkns::distractions
 ::dtrkr::distracter
 ::dtrkrs::distracters
-::ttd::"tangent tree" of distractions
 ::dtr::deter
 ::dtrs::deters
 ::dtrd::deterred
@@ -13697,10 +11412,6 @@ Return
 ::cfwg::confounding
 ::cfwr::confounder
 ::cfwrs::confounders
-::fft::FFT
-::ffts::FFTs
-::ffte::Fast Fourier Transform
-::fftse::Fast Fourier Transforms
 ::dzv::deserve
 ::dzvs::deserves
 ::dzvd::deserved
@@ -13725,23 +11436,10 @@ Return
 ::plauy::plausibly
 ::iplau::implausible
 ::iplauy::implausibly
-::wos::Walking on Sunshine
-::creu::code reuse
-::sreu::software reuse
-::swrs::software system
-::ssd::software system design
 ::curi::curious
 ::cury::curiously
 ::mro::macro
 ::mros::macros
-::cdp::code path
-::cdps::code paths
-::ttcp::trace the code path
-::tstcp::traces the code path
-::tdtcp::traced the code path
-::tgtcp::tracing the code path
-::ptex::plaintext
-::ctex::ciphertext
 ::bfa::brute-force attack
 ::prx::pressure
 ::prxs::portions
@@ -13749,15 +11447,8 @@ Return
 ::prxg::portioning
 ::prxr::portioner
 ::prxrs::portioners
-::rsa::RSA
-::puk::public key
-::puks::public keys
-::pvk::private key
-::pvks::private keys
 ::eve::evening
 ::eves::evenings
-::seke::secret key
-::sekes::secret keys
 ::eav::eavesdrop
 ::eavs::eavesdrops
 ::eavd::eavesdropped
@@ -13836,27 +11527,18 @@ Return
 ::itturs::instituters
 ::qry::query
 ::qrys::queries
-::sdaa::Software Design and Architecture
-::aaoa::Advanced Analysis of Algorithms
-::ooad::OOAD
-::ooade::Object-Oriented Analysis and Development
-::itcs::Introduction to Computer Security
 ::nco::encode
 ::ncos::encodes
 ::ncod::encoded
 ::ncog::encoding
 ::ncor::encoder
 ::ncors::encoders
-::cnco::character encoding
-::cncos::character encodings
 ::dco::decode
 ::dcos::decodes
 ::dcod::decoded
 ::dcog::decoding
 ::dcor::decoder
 ::dcors::decoders
-::d1s::depth-first search
-::b1s::breadth-first search
 ::atfk::artifact
 ::atfks::artifacts
 ::shrh::shareholder
@@ -13896,12 +11578,6 @@ Return
 ::annors::annotaters
 ::adla::ADL
 ::adlsa::ADLs
-::grmd::Gaata rahe mera dil
-::thmm::Tu hi meri manzil
-::kbnyr::Kahin biten na ye raaten
-::kbnyd::Kahin biten na ye din
-::ots::OTS
-::cots::COTS
 ::ian::in a nutshell
 ::mal::malice
 ::mlx::malicious
@@ -14022,15 +11698,8 @@ Return
 ::inlrs::inliners
 ::ispt::inlined script
 ::ispts::inlined scripts
-::isb::'inlined script--BASELINE.ahk'
-::rpca::RPC
-::rpcsa::RPCs
-::rpce::remote procedure call
 ::mbx::mailbox
 ::mbxs::mailboxes
-::icc::ICC
-::maca::MAC
-::mace::mandatory access control
 ::jeo::jeopardize
 ::jeos::jeopardizes
 ::jeod::jeopardized
@@ -14072,12 +11741,6 @@ Return
 ::nroms::enrollments
 ::nror::enroller
 ::nrors::enrollers
-::thoc::Theory of Computation
-::itoc::Introduction to the Theory of Computation
-::smrr::Software Maintenance, Reengineering, and Reuse
-::stics::Special Topics in Computer Science
-::ava::AV
-::swn::Swanson
 ::adp::adapt
 ::adps::adapts
 ::adpd::adapted
@@ -14109,11 +11772,7 @@ Return
 ::hvto::have to
 ::hdto::had to
 ::hgto::having to
-::ml::MATLAB
 ::otto::on the top of
-::ottop::on the top of p.
-::otbo::on the bottom of
-::otbop::on the bottom of p.
 ::2tl::2nd-to-last
 ::2tle::second-to-last
 ::3tl::3rd-to-last
@@ -14126,12 +11785,6 @@ Return
 ::tduns::transductions
 ::tdur::transducer
 ::tdurs::transducers
-::pbx::Proof by Contradiction
-::lem::lemma
-::lems::lemmas
-::plem::pumping lemma
-::plen::pumping length
-::sip::Sipser:
 ::kou::course
 ::kous::courses
 ::koud::coursed
@@ -14161,8 +11814,6 @@ Return
 ::elabns::elaborations
 ::elabr::elaborater
 ::elabrs::elaboraters
-::mps::multi-project solution
-::mpss::multi-project solutions
 ::spvs::supervise
 ::spvss::supervises
 ::spvsd::supervised
@@ -14172,12 +11823,8 @@ Return
 ::spvsr::supervisor
 ::spvsrs::supervisors
 ::spvsy::supervisory
-::roc::ROC
-::stdi::StampDispenser
 ::dnmn::denomination
 ::dnmns::denominations
-::sdno::stampDenominations
-::lf::Laserfiche
 ::grf::graceful
 ::grfy::gracefully
 ::falw::for a little while
@@ -14190,14 +11837,6 @@ Return
 ::durbcs::disturbances
 ::durbr::disturber
 ::durbrs::disturbers
-::pca::PCA
-::pcae::Principal Component Analysis
-::fdr::FDR
-::fdre::Fisher Discriminant Ratio
-::lda::LDA
-::ldae::Linear Discriminant Analysis
-::mda::MDA
-::mdae::Multiple Discriminant Analysis
 ::ipo::interpose
 ::ipos::interposes
 ::ipod::interposed
@@ -14206,15 +11845,6 @@ Return
 ::ipons::interpositions
 ::ipor::interposer
 ::ipors::interposers
-::egv::Eigen value
-::egvs::Eigen values
-::egvk::Eigen vector
-::egvks::Eigen vectors
-::evd::Eigen value decomposition
-::wlog::WLOG
-::wloge::without loss of generality
-::wloi::WLOI
-::wloie::without loss of information
 ::frag::fragment
 ::frags::fragments
 ::fragd::fragmented
@@ -14223,7 +11853,6 @@ Return
 ::fragns::fragmentations
 ::fragr::fragmenter
 ::fragrs::fragmenters
-::filc::filterCriteria
 ::hyb::hybrid
 ::hybs::hybrids
 ::hybz::hybridize
@@ -14287,26 +11916,14 @@ Return
 ::xcms::shortcomings
 ::tka::test case
 ::tkas::test cases
-::kj::klooj
-::kjs::kloojes
-::kjd::kloojed
-::kjg::kloojing
-::kjr::kloojer
-::kjrs::kloojers
-::kjy::kloojy
-::a1n::A1-style notation
-::rcn::R1C1-style notation
-::r1c1::R1C1-style notation
 ::ju::just
 ::jic::just in case
-::gkas::Ghunghat Ki Aad Se
 ::dil::diligent
 ::dilc::diligence
 ::dily::diligently
 ::mtkl::meticulous
 ::mtkn::meticulousness
 ::mtky::meticulously
-::reth::return the head to the front of the tape
 ::ofi::office
 ::ofis::offices
 ::ofx::official
@@ -14332,7 +11949,6 @@ Return
 ::sitst::suffice it to say that
 ::ein::Einstein
 ::einn::Einsteinian
-::htlfaap::How to Lose Friends and Alienate People
 ::nfx::Netflix
 ::idkn::I don't know
 ::idkht::I don't know how to
@@ -14371,7 +11987,6 @@ Return
 ::cvycs::conveyances
 ::cvyr::conveyor
 ::cvyrs::conveyors
-::kea::Kelley et al: 
 ::byet::better yet
 ::agn::agent
 ::agns::agents
@@ -14406,11 +12021,6 @@ Return
 ::dpaxr::dispatcher
 ::dpaxrs::dispatchers
 ::ifyw::if you will
-::ies::IES
-::iese::Information Extraction System
-::ahkies::AHK-IES
-::oopies::OOPIES
-::oopiese::Object-Oriented Program Information Extraction System
 ::ixm::instrument
 ::ixms::instruments
 ::ixmd::instrumented
@@ -14478,34 +12088,11 @@ Return
 ::ozvns::observations
 ::ozvr::observer
 ::ozvrs::observers
-::sdaa::Software Design and Architecture
-::aaoa::Advanced Analysis of Algorithms
-::ooad::Object-Oriented Analysis and Development
-::itcs::Introduction to Computer Security
-::thoc::Theory of Computation
-::itoc::Introduction to the Theory of Computation
-::smrr::Software Maintenance, Reengineering, and Reuse
-::stics::Special Topics in Computer Science
-::d1s::depth-first search
-::b1s::breadth-first search
-::tbu::The Blessed Unrest
-::scl::Satellite Call
-::lbd::Little Black Dress
-::casi::Cassiopeia
-::1000t::1000 Times
-::gybr::Goodbye Yellow Brick Road
-::iye::In Your Eyes
 ::nfl::non-functional
 ::nflt::Non-Functional
 ::nfy::non-functionally
 ::nfr::Non-Functional Requirements
-::yjhd::Yeh Jawaani Hai Deewani
-::stp::st.
 ::cphvx::Comprehensive Exam
-::ml::Matlab
-::mnd::multivariate normal distribution
-::mgd::multivariate Gaussian distribution
-::che::Comprehensive Exam
 ::hfe::hyphen
 ::hfn::hyphenate
 ::hfns::hyphenates
@@ -14515,7 +12102,6 @@ Return
 ::hfnns::hyphenations
 ::hfnr::hyphenater
 ::hfnrs::hyphenaters
-::0n1::0s and 1s
 ::bod::bother
 ::bods::bothers
 ::bodd::bothered
@@ -14523,8 +12109,6 @@ Return
 ::bodm::bothersome
 ::bodr::botherer
 ::bodrs::botherers
-::ide::IDE
-::ides::IDEs
 ::itsp::intersperse
 ::itsps::intersperses
 ::itspd::interspersed
@@ -14570,20 +12154,12 @@ Return
 ::gueg::guessing
 ::guer::guesser
 ::guers::guessers
-::runf::Run_f(...)
 ::usd::upside-down
 ::rsup::right-side up
 ::jur::just right
 ::jus::just so
 ::acot::a couple of times
 ::afwt::a few times
-::pssom::Pour Some Sugar On Me
-::defl::Def Leppard
-::batt::Breakfast At Tiffany's
-::bmys::Break My Stride
-::brkms::Break My Stride
-::stal::standalone
-::aes::AES
 ::ctto::contrary to
 ::wil::will
 ::elv::elevate
@@ -14671,10 +12247,6 @@ Return
 ::abams::abandonments
 ::abar::abandoner
 ::abars::abandoners
-::cnumb::"Comfortably Numb"
-::sotr::"Somewhere Over The Rainbow"
-::beyg::"Brown-Eyed Girl"
-::ebyt::"Every Breath You Take"
 ::rom::romantic
 ::romy::romantically
 ::romc::romance
@@ -14689,7 +12261,6 @@ Return
 ::tvlg::traveling
 ::tvlr::traveler
 ::tvlrs::travelers
-::trlt::"The Road Less Traveled"
 ::mbo::embody
 ::mbos::embodies
 ::mbod::embodied
@@ -14711,12 +12282,7 @@ Return
 ::ftvft::for the very first time
 ::psag::passive-aggressive
 ::pvav::passive-aggressive
-::agkol::"A Groovy Kind Of Love"
 ::notb::nature of the beast
-::hci::HCI
-::hcis::HCIs
-::hcie::human-computer interface
-::hcise::human-computer interfaces
 ::mani::manifest
 ::manis::manifests
 ::manid::manifested
@@ -14760,8 +12326,6 @@ Return
 ::ftgg::fatiguing
 ::ftgr::fatiguer
 ::ftgrs::fatiguers
-::hpf:::-)
-::uhf:::-(
 ::drng::date range
 ::drngs::date ranges
 ::tmf::triumph
@@ -14770,12 +12334,8 @@ Return
 ::tmfg::triumphing
 ::tmfn::triumphant
 ::tmfy::triumphantly
-::dhw::DetectHiddenWindows
-::wtea::'WinTitles & Executables.ahk'
-::wxif::WinExist(...)
 ::zst::this time
 ::zsta::this time around
-::vcbm::Vicky, Cristina, Barcelona
 ::sotw::sense of the word
 ::ialsotw::in a loose sense of the word
 ::ialsott::in a loose sense of the term
@@ -14803,8 +12363,6 @@ Return
 ::azvns::absolutions
 ::azvr::absolver
 ::azvrs::absolvers
-::d2l::D2L
-::d2le::Desire2Learn
 ::brx::branch
 ::brxs::branches
 ::brxd::branched
@@ -14821,7 +12379,6 @@ Return
 ::dltg::delighting
 ::dltf::delightful
 ::dlty::delightfully
-::reo::Raytheon
 ::xhl::exhilarate
 ::xhls::exhilarates
 ::xhld::exhilarated
@@ -14865,13 +12422,6 @@ Return
 ::thwg::throwing
 ::thwr::thrower
 ::thwrs::throwers
-::gop::Gopal Srinath
-:*:gfn::(714) 952-6500
-::mth::Murthy
-::sik::Chunsik
-::yu::Yusheng
-::naz::Shanaz
-::s4a::SciTE4AHK
 ::rkr::recruit
 ::rkrs::recruits
 ::rkrd::recruited
@@ -14885,8 +12435,6 @@ Return
 ::hird::hired
 ::hirg::hiring
 ::hoe::how on Earth
-::nvi::n
-::nviu::N
 ::jx::juxtapose
 ::jxs::juxtaposes
 ::jxd::juxtaposed
@@ -14895,25 +12443,6 @@ Return
 ::jxns::juxtapositions
 ::jxr::juxtaposer
 ::jxrs::juxtaposers
-::sie::Siemens
-::plma::PLM
-::splm::Siemens PLM
-::gnc::Gopal & Co.
-::gop::Gopal
-::mth::Murthy
-::sik::Chunsik
-::naz::Shanaz
-::nxa::NX
-::nxo::NX Open
-::aspdnet::ASP.NET
-::mxl::MatchList
-::mxls::MatchLists
-::mxla::MatchList_Applications
-::mxlf::MatchList_Folders
-::mxlsf::MatchList_SourceFiles
-::mxlw::MatchList_Websites
-::icmp::'Input' command’s 'MatchList' parameter
-::imxl::'Input' command’s 'MatchList' parameter
 ::cif::cipher
 ::cifs::ciphers
 ::dcf::decipher
@@ -14964,7 +12493,6 @@ Return
 ::ovans::obviations
 ::ovar::obviater
 ::ovars::obviaters
-::tmc::Those Magic Changes
 ::xrp::excerpt
 ::xrps::excerpts
 ::xrpd::excerpted
@@ -15102,8 +12630,6 @@ Return
 ::chivrs::archivers
 ::inok::innocuous
 ::inoy::innocuously
-::eid::Everything I Do, I Do It For You
-::ybiaw::Your Body Is A Wonderland
 ::imo::immortal
 ::imot::immortality
 ::mac::macro
@@ -15120,10 +12646,6 @@ Return
 ::zmg::zooming
 ::zmr::zoomer
 ::zmrs::zoomers
-::zmc::ZoomMacro Client
-::zmcs::ZoomMacro Clients
-::nlp::NLP
-::nlpe::natural language processing
 ::dprk::deprecate
 ::dprks::deprecates
 ::dprkd::deprecated
@@ -15140,10 +12662,6 @@ Return
 ::hley::hopelessly
 ::agah::against all hope
 ::hah::hope against hope
-::cnte::CNTE
-::cntea::'CNTE.ahk'
-::cntee::Cursor Navigation & Text Editing
-::cnter::CNTE_Rejector
 ::bos::bunch of stuff
 ::snd::sound
 ::snds::sounds
@@ -15240,8 +12758,6 @@ Return
 ::rfxms::refreshments
 ::rfxr::refresher
 ::rfxrs::refreshers
-::cpf::C:\Program Files
-::c86::C:\Program Files (x86)
 ::toff::tradeoff
 ::toffs::tradeoffs
 ::gutf::gut feeling
@@ -15273,9 +12789,6 @@ Return
 ::cflans::conflations
 ::cflar::conflater
 ::cflars::conflaters
-::ipa::IP
-::ipad::IP address
-::ipads::IP addresses
 ::sxi::succint
 ::sxiy::succintly
 ::ori::orient
@@ -15296,16 +12809,12 @@ Return
 ::fxgu::fixating upon
 ::fxnu::fixation upon
 ::fxnsu::fixations upon
-::dfmtn::DefaultMutableTreeNode
-::dfmtns::DefaultMutableTreeNodes
-::iads::inlineADecomposedScript(...)
 ::efo::effort
 ::efos::efforts
 ::lah::lookahead
 ::laht::lookahead token
 ::lahts::lookahead tokens
 ::lac::lookahead capability
-::gbta::I feel like I just gave birth to an accountant!
 ::sru::subrule
 ::srus::subrules
 ::sruo::subrule operator
@@ -15379,7 +12888,6 @@ Return
 ::gpars::grandparents
 ::chi::child
 ::chil::children
-::nwd::NESTLE WATER DELIVERY TOMORROW!
 ::hrb::horrible
 ::hrby::horribly
 ::iiots::it is okay that
@@ -15424,7 +12932,6 @@ Return
 ::gnu::genuine
 ::gnuy::genuinely
 ::tyo::Toyota
-::tfs::Toyota Financial Services
 ::wor::world
 ::wors::worlds
 ::crr::career
@@ -15491,7 +12998,6 @@ Return
 ::tbshg::troubleshooting
 ::tbshr::troubleshooter
 ::tbshrs::troubleshooters
-::aur::Aurélien
 ::asor::assort
 ::asors::assorts
 ::asord::assorted
@@ -15515,7 +13021,6 @@ Return
 ::prif::periphery
 ::prifl::peripheral
 ::prify::peripherally
-::mitu::M.I.T.
 ::cad::CAD
 ::urj::urgent
 ::urjy::urgently
@@ -15524,7 +13029,6 @@ Return
 ::hsea::holiday season
 ::sin::sincere
 ::siny::sincerely
-::sirl::"Submit Initial Release"
 ::gihu::GitHub
 ::srct::SourceTree
 ::ebat::embattle
