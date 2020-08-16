@@ -466,6 +466,8 @@
 ::envl::environmental
 ::envly::environmentally
 ::tod::today
+::tody::time of day
+::ptody::particular time of day
 ::zsm::this morning
 ::zsa::this afternoon
 ::zse::this evening
@@ -1037,16 +1039,9 @@
 ::3ly::triply
 ::3lyt::Triply
 ::plu::plural
-::prep::preposition
-::preps::prepositions
-::prepl::prepositional
-::prepf::prepositional phrase
-::prepfs::prepositional phrases
-::pfrz::prepositional phrase
-::pfrzs::prepositional phrases
-::postp::postposition
-::postps::postpositions
-::postpl::postpositional
+::prepn::preposition
+::prepns::prepositions
+::prepnl::prepositional
 ::nts::Note To Self
 ::rqr::require
 ::rqrs::requires
@@ -2574,8 +2569,11 @@
 ::crgr::charger
 ::crgrs::chargers
 ::morn::morning
-::aft::afternoon
-::eve::evening
+::morns::mornings
+::aftn::afternoon
+::aftns::afternoons
+::evng::evening
+::evngs::evenings
 ::nt::night
 ::kkl::conclude
 ::kkls::concludes
@@ -3694,6 +3692,11 @@
 ::rivd::rivered
 ::rivg::rivering
 ::otr::on the river
+::irit::irritate
+::irits::irritates
+::iritd::irritated
+::iritg::irritating
+::iritn::irritation
 ::istt::instant
 ::isty::instantly
 ::instt::instantaneous
