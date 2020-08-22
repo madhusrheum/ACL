@@ -5,6 +5,7 @@
 ::ai::autoimmune
 ::er::ER
 ::plaq::Plaquenil
+::sfz::sulfasalazine
 ::jp::joint pain
 ::np::neck pain
 ::pfeo::presents for evaluation of

@@ -13,18 +13,21 @@ ACL_Path := A_ScriptDir "\" ACL_Filename
 
 SciTE4AHK_exe := "C:\Program Files\AutoHotkey\SciTE\SciTE.exe"
 
+;Hotkeys
 ;open the ACL (for the purpose of viewing or editing it)
 #o::Run C:\Program Files\AutoHotkey\SciTE\SciTE.exe %A_ScriptDir%\ACL\English.ahk,, Maximize
 
-;Hotkeys
+;Switches Virtual Desktops
 ^#LButton::SendInput ^#{Left}
 ^#RButton::SendInput ^#{Right}
 
 ;update the ACL with the latest entries
 <#r::
 	if WinActive("SciTE4AutoHotkey")
+		;saves the file
 		Send ^s
 
+	;Reloads the script.
 	Run *Run %ACL_Path%
 Return
 
