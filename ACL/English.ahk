@@ -79,10 +79,10 @@
 ::biot::biologic therapy
 ::odb::on a daily basis
 ::mcp::MCP
-::ra::RA
-::rae::Rheumatoid Arthritis
-::sle::SLE
-::slee::Systemic Lupus Erythematosus
+::raa::RA
+::ra::Rheumatoid Arthritis
+::slea::SLE
+::sle::Systemic Lupus Erythematosus
 ::clts::Carpal Tunnel Syndrome
 ::scl::Scleroderma
 ::eow::every other week
